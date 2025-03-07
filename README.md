@@ -9,4 +9,4 @@ Les données ont été obtenues grâce au :
 
 *Department of Energy US*
 
-*Directorate Generalo for Energy UE*
+*Directorate General for Energy UE*
