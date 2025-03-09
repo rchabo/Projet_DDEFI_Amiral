@@ -1,0 +1,38 @@
+iso3,iso2,name_en,name_fr,name_native,european_union,ue27,g7
+FRA,FR,France,France,France,True,True,True
+ITA,IT,Italy,Italie,Italia,True,True,True
+DEU,DE,Germany,Allemagne,Deutschland,True,True,True
+HRV,HR,Croatia,Croatie,Hrvatska,True,True,False
+ROU,RO,Romania,Roumanie,România,True,True,False
+LVA,LV,Latvia,Lettonie,Latvija,True,True,False
+AUT,AT,Austria,Autriche,Österreich,True,True,False
+LTU,LT,Lithuania,Lituanie,Lietuva,True,True,False
+ESP,ES,Spain,Espagne,España,True,True,False
+SVN,SI,Slovenia,Slovénie,Slovenija,True,True,False
+BEL,BE,Belgium,Belgique,België,True,True,False
+NLD,NL,Netherlands,Pays-Bas,Nederland,True,True,False
+POL,PL,Poland,Pologne,Polska,True,True,False
+CZE,CZ,Czech Republic,République tchèque,Česká republika,True,True,False
+SVK,SK,Slovakia,Slovaquie,Slovensko,True,True,False
+GRC,GR,Greece,Grèce,Ελλάδα,True,True,False
+FIN,FI,Finland,Finlande,Suomi,True,True,False
+SWE,SE,Sweden,Suède,Sverige,True,True,False
+DNK,DK,Denmark,Danemark,Danmark,True,True,False
+PRT,PT,Portugal,Portugal,Portugal,True,True,False
+BGR,BG,Bulgaria,Bulgarie,България,True,True,False
+CYP,CY,Cyprus,Chypre,Κύπρος,True,True,False
+HUN,HU,Hungary,Hongrie,Magyarország,True,True,False
+IRL,IE,Ireland,Irlande,Éire,True,True,False
+LUX,LU,Luxembourg,Luxembourg,Luxembourg,True,True,False
+EST,EE,Estonia,Estonie,Eesti,True,True,False
+MLT,MT,Malta,Malte,Malta,True,True,False
+GBR,GB,United Kingdom,Royaume-Uni,United Kingdom,True,False,True
+NOR,NO,Norway,Norvège,Norge,True,False,False
+ISL,IS,Iceland,Islande,Ísland,True,False,False
+LIE,LI,Liechtenstein,Liechtenstein,Liechtenstein,True,False,False
+TUR,TR,Turkey,Turquie,Türkiye,True,False,False
+AND,AD,Andorra,Andorre,Andorra,True,False,False
+MCO,MC,Monaco,Monaco,Monaco,True,False,False
+CHE,CH,Switzerland,Suisse,Schweiz,True,False,False
+VAT,VA,Vatican City,Vatican,Vaticano,True,False,False
+SMR,SM,San Marino,Saint-Marin,San Marino,True,False,False
