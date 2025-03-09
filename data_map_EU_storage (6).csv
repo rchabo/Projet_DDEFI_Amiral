@@ -1,0 +1,641 @@
+,Country,City,Facility Name,Facility Status,Technology type,Sub-technology,Power installed capacity (MW),latitude,longitude,Source,Date of commisionning,"Average CAPEX (€/kWh, 2016)","Max CAPEX (€/kWh, 2016)",CAPEX estimated 2030 (€/kWh)
+0,Austria,Berg,Hintermuhr,Operational,Mechanical,Pumped Hydro Storage (PHS),104.0,48.1037875,17.03372943,EU Data,0.0,19.0,90.10000000000001,19.0
+1,Austria,Flattach,Feldsee Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),140.0,46.99781985,13.042030434,GESDB,0.0,19.0,90.10000000000001,19.0
+2,Austria,Frankenburg,BlueSky Energy Microgrid ViZn Z20,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.064,48.0680308,13.4921448,GESDB,0.0,0.0,0.0,0.0
+3,Austria,Gaschurn,Kops II Pumped Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),525.0,46.9858102,10.03,GESDB,0.0,19.0,90.10000000000001,19.0
+4,Austria,Hausling,Häusling Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),360.0,47.14584,11.97,GESDB,0.0,19.0,90.10000000000001,19.0
+5,Austria,Hohen Tauern,Oschenik Innerfragant Pumped Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),108.0,47.1374819,12.33,GESDB,0.0,19.0,90.10000000000001,19.0
+6,Austria,Kaprun,Kaprun-Oberstufe,Operational,Mechanical,Pumped Hydro Storage (PHS),112.8,47.27239,12.75985,Power Plant Tracker,1956.0,19.0,90.10000000000001,19.0
+7,Austria,Kaprun,Limberg II Pumped Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),480.0,47.1592991,12.71,GESDB,0.0,19.0,90.10000000000001,19.0
+8,Austria,Kaprun,Limberg-2,Operational,Mechanical,Pumped Hydro Storage (PHS),480.0,47.27239,12.75985,Power Plant Tracker,2011.0,19.0,90.10000000000001,19.0
+9,Austria,Kaprun,Limberg-3,Authorized,Mechanical,Pumped Hydro Storage (PHS),480.0,47.27239,12.75985,Power Plant Tracker,2022.0,19.0,90.10000000000001,19.0
+10,Austria,Kaunertal,Kaunertal-2,Announced,Mechanical,Pumped Hydro Storage (PHS),400.0,46.9470059,10.73486845,EU Data,0.0,19.0,90.10000000000001,19.0
+11,Austria,Klagenfurt,Malta-Hauptstufe,Operational,Mechanical,Pumped Hydro Storage (PHS),730.0,46.623943,14.3075976,EU Data,0.0,19.0,90.10000000000001,19.0
+12,Austria,Kraftwerk Roßhag,Roßhag Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),231.0,47.0867914,11.77,GESDB,0.0,19.0,90.10000000000001,19.0
+13,Austria,Kölnbrein Dam,Reisseck II Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),430.0,47.0791667,13.34,GESDB,0.0,19.0,90.10000000000001,19.0
+14,Austria,Lavamünd,Koralpe Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),50.0,46.6407766,14.95,GESDB,0.0,19.0,90.10000000000001,19.0
+15,Austria,Limberg,Kaprun Upper Stage Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),113.0,47.3648489,12.64,GESDB,0.0,19.0,90.10000000000001,19.0
+16,Austria,Lunersee,Lünerseewerk Pumped Hydro Storage Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),232.0,47.0531826,9.75,GESDB,0.0,19.0,90.10000000000001,19.0
+17,Austria,Malta Hauptstufe,Malta Upper Stage Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),120.0,47.0791667,13.34,GESDB,0.0,19.0,90.10000000000001,19.0
+18,Austria,Molln,Pfaffenboden,Under Construction,Mechanical,Pumped Hydro Storage (PHS),300.0,47.8861962,14.2572718,EU Data,0.0,19.0,90.10000000000001,19.0
+19,Austria,Molln,Pfaffenboden,Under Construction,Mechanical,Pumped Hydro Storage (PHS),300.0,47.88723,14.25819,https://tyndp.entsoe.eu/tyndp2018/projects/storage_projects,2022.0,19.0,90.10000000000001,19.0
+20,Austria,Partenen,Kopswerk-1,Operational,Mechanical,Pumped Hydro Storage (PHS),247.0,46.9689831,10.0606567,EU Data,0.0,19.0,90.10000000000001,19.0
+21,Austria,Partenen,Kopswerk-2.1,Operational,Mechanical,Pumped Hydro Storage (PHS),175.0,46.9689831,10.0606567,EU Data,0.0,19.0,90.10000000000001,19.0
+22,Austria,Partenen,Kopswerk-2.2,Operational,Mechanical,Pumped Hydro Storage (PHS),175.0,46.9689831,10.0606567,EU Data,0.0,19.0,90.10000000000001,19.0
+23,Austria,Partenen,Kopswerk-2.3,Operational,Mechanical,Pumped Hydro Storage (PHS),175.0,46.9689831,10.0606567,EU Data,0.0,19.0,90.10000000000001,19.0
+25,Austria,Prottes,Prottes,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,2.5,48.3863701,16.7388956,EU Data,0.0,0.0,0.0,0.0
+26,Austria,Rastenfeld,Ottenstein TU,Operational,Mechanical,Pumped Hydro Storage (PHS),48.0,48.57348,15.33176,Power Plant Tracker,0.0,19.0,90.10000000000001,19.0
+27,Austria,Rifa,Rifawerk Pumped Hydro Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),7.0,46.9782553,10.04,GESDB,0.0,19.0,90.10000000000001,19.0
+28,Austria,Rodundwerk,Rodundwerk I Pumped Hydro Station,Operational,Mechanical,Pumped Hydro Storage (PHS),198.0,47.08514,9.88,GESDB,0.0,19.0,90.10000000000001,19.0
+29,Austria,Rottau,Malta Main Stage Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),730.0,46.87241,13.33,GESDB,0.0,19.0,90.10000000000001,19.0
+30,Austria,Silvretta Montafon,Obervermuntwerk 2,Operational,Mechanical,Pumped Hydro Storage (PHS),360.0,47.0645191,9.93,GESDB,0.0,19.0,90.10000000000001,19.0
+31,Austria,Vandans,Rellswerk Pumped Hydro Project,Operational,Mechanical,Pumped Hydro Storage (PHS),12.0,47.0536812,9.7548663468,GESDB,0.0,19.0,90.10000000000001,19.0
+32,Austria,Vandans,Rodundwerk II Pumped Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),295.0,47.0841172,9.8783605,GESDB,0.0,19.0,90.10000000000001,19.0
+33,Austria,Vandans,Rodundwerk-1,Operational,Mechanical,Pumped Hydro Storage (PHS),198.0,47.09569,9.86525,Power Plant Tracker,1943.0,19.0,90.10000000000001,19.0
+34,Austria,Vandans,Rodundwerk-2,Operational,Mechanical,Pumped Hydro Storage (PHS),295.0,47.09569,9.86525,Power Plant Tracker,2012.0,19.0,90.10000000000001,19.0
+36,Belgium,Cerfontaine,Plate Taille Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),143.0,50.1820926,4.3691662491,GESDB,0.0,19.0,90.10000000000001,19.0
+37,Belgium,Drogenbos,Drogenbos,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,7.0,50.786532,4.3173542,EU Data,0.0,0.0,0.0,0.0
+38,Belgium,Froidchapelle,Plate Taille,Operational,Mechanical,Pumped Hydro Storage (PHS),140.0,50.15106,4.32742,Power Plant Tracker,0.0,19.0,90.10000000000001,19.0
+40,Belgium,Olen,Olen Umicore BAT,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,1.2,51.1438611,4.8597257,EU Data,0.0,0.0,0.0,0.0
+41,Belgium,Puurs,Peleman Industries,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,2.0,51.0762086,4.2817074999999996,EU Data,0.0,0.0,0.0,0.0
+42,Belgium,Ruien,Ruien Energy Storage,Announced,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,25.0,50.7739701,3.4860074,EU Data,0.0,0.0,0.0,0.0
+43,Belgium,Seraing ,MiRIS-1,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.5,50.6152381,5.5089437,EU Data,0.0,0.0,0.0,0.0
+44,Belgium,Seraing ,MiRIS-2,Operational,Electro-chemical battery and chemical storage,Lead Acid batteries,1.2,50.6152381,5.5089437,EU Data,0.0,0.0,0.0,0.0
+45,Belgium,Seraing ,MiRIS-3,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,1.2,50.6152381,5.5089437,EU Data,0.0,0.0,0.0,0.0
+46,Belgium,Seraing ,MiRIS-4,Operational,Electro-chemical battery and chemical storage,Sodium Sulphur batteries,0.2,50.6152381,5.5089437,EU Data,0.0,0.0,0.0,0.0
+47,Belgium,Terhills,Terhills,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,18.2,51.00202995,5.70561025,EU Data,0.0,0.0,0.0,0.0
+48,Belgium,Trois-Ponts,Coo-Trois-Ponts Hydroelectric Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),1164.0,50.3717154,5.87,GESDB,0.0,19.0,90.10000000000001,19.0
+50,Bulgaria,Belmeken,Belmeken Hydro Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),104.0,42.1666667,23.8,GESDB,0.0,19.0,90.10000000000001,19.0
+51,Bulgaria,Belovo,Chaira Hydro Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),788.0,42.16204,23.7963046724,GESDB,0.0,19.0,90.10000000000001,19.0
+52,Bulgaria,Krichim,Orpheus,Operational,Mechanical,Pumped Hydro Storage (PHS),160.0,42.05,24.46667,Power Plant Tracker,1975.0,19.0,90.10000000000001,19.0
+53,Bulgaria,Smolyan,Orphey Hydro Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),160.0,41.7429109,24.39,GESDB,0.0,19.0,90.10000000000001,19.0
+55,Croatia,Fužine,Fužine Pumped Hydro Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),4.6000000000000005,45.3049852,14.71,GESDB,0.0,19.0,90.10000000000001,19.0
+56,Croatia,Fužine,Lepenica Pumped Hydro Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),1.1400000000000001,45.3049852,14.71,GESDB,0.0,19.0,90.10000000000001,19.0
+57,Croatia,Obrovac,Velebit,Operational,Mechanical,Pumped Hydro Storage (PHS),276.0,44.20056,15.68222,Power Plant Tracker,1984.0,19.0,90.10000000000001,19.0
+58,Croatia,Obrovac,Velebit Pump Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),276.0,44.2007328,15.68,GESDB,0.0,19.0,90.10000000000001,19.0
+59,Croatia,Orlovac,Orlovac,Operational,Mechanical,Pumped Hydro Storage (PHS),237.0,43.470586,16.8261818,EU Data,0.0,19.0,90.10000000000001,19.0
+60,Croatia,Tribalj,Vinodol-1,Operational,Mechanical,Pumped Hydro Storage (PHS),90.0,45.2231439,14.6783868,EU Data,0.0,19.0,90.10000000000001,19.0
+61,Croatia,Tribalj,Vinodol-2,Announced,Mechanical,Pumped Hydro Storage (PHS),150.0,45.2231439,14.6783868,EU Data,0.0,19.0,90.10000000000001,19.0
+64,Cyprus,Nicosie,Nicosie,Announced,Electro-chemical battery and chemical storage,,5.0,35.1748976,33.3638568,EU Data,0.0,0.0,0.0,0.0
+65,Czech Republic,Borová Lada,Sumava National Park CellCube,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.01,48.97187,13.63295,GESDB,0.0,0.0,0.0,0.0
+66,Czech Republic,Budweis,South Bohemian Science and Technology Park,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.03,48.97669155,14.4507334494,GESDB,0.0,0.0,0.0,0.0
+67,Czech Republic,Dalesice,Dalesice-1,Operational,Mechanical,Pumped Hydro Storage (PHS),120.0,49.1290037,16.0819069,EU Data,0.0,19.0,90.10000000000001,19.0
+68,Czech Republic,Dalesice,Dalesice-2,Operational,Mechanical,Pumped Hydro Storage (PHS),120.0,49.1290037,16.0819069,EU Data,0.0,19.0,90.10000000000001,19.0
+69,Czech Republic,Dalesice,Dalesice-3,Operational,Mechanical,Pumped Hydro Storage (PHS),120.0,49.1290037,16.0819069,EU Data,0.0,19.0,90.10000000000001,19.0
+70,Czech Republic,Dalesice,Dalesice-4,Operational,Mechanical,Pumped Hydro Storage (PHS),120.0,49.1290037,16.0819069,EU Data,0.0,19.0,90.10000000000001,19.0
+71,Czech Republic,Dukovany,Dalešice Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),450.0,49.124395,16.12,GESDB,0.0,19.0,90.10000000000001,19.0
+72,Czech Republic,Jesenik,Dlouhe Strane-1,Operational,Mechanical,Pumped Hydro Storage (PHS),325.0,50.2296385,17.2046012,EU Data,0.0,19.0,90.10000000000001,19.0
+73,Czech Republic,Jesenik,Dlouhe Strane-2,Operational,Mechanical,Pumped Hydro Storage (PHS),325.0,50.2296385,17.2046012,EU Data,0.0,19.0,90.10000000000001,19.0
+74,Czech Republic,Loučná Desnou,Dlouhé Stráně Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),650.0,50.08154855,17.1828047386,GESDB,0.0,19.0,90.10000000000001,19.0
+75,Czech Republic,Mydlovary ,Mydlovary ,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,1.0,49.0918843,14.3542441,EU Data,0.0,0.0,0.0,0.0
+76,Czech Republic,Obořiště ,Obořiště ,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,1.0,49.7422468,14.1518524,EU Data,0.0,0.0,0.0,0.0
+77,Czech Republic,Prague,Institute of Plasma Physics (IPP) Flywheel System -  50 MW Pulse Duration for 2-3 Seconds,Operational,Mechanical,Flywheel,70.0,50.0755381,14.4378005,GESDB,0.0,2750.0,5406.0,1750.0
+78,Czech Republic,Prakšice,Prakšice,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,1.0,49.0689034,17.6330348,EU Data,0.0,0.0,0.0,0.0
+79,Czech Republic,Stechovice,Stechovice-2,Operational,Mechanical,Pumped Hydro Storage (PHS),45.0,49.8509836,14.4054517,EU Data,0.0,19.0,90.10000000000001,19.0
+80,Czech Republic,Štěchovice,Štěchovice Pumped Hydro Station,Operational,Mechanical,Pumped Hydro Storage (PHS),45.0,49.846401,14.42,GESDB,0.0,19.0,90.10000000000001,19.0
+81,Denmark,Bornholm,BOSS,Announced,Electro-chemical battery and chemical storage,,1.0,55.1431224,14.92262966,EU Data,0.0,0.0,0.0,0.0
+82,Denmark,Hobro,HyBalance - Air Liquide Advanced Business,Operational,Electro-chemical battery and chemical storage,Power to Gas (H2),1.25,56.6289466,9.8190592,GESDB,0.0,0.0,0.0,0.0
+84,Denmark,Kongens Lyngby,RISO Syslab Redox Flow Battery,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.015,55.763516,12.49,GESDB,0.0,0.0,0.0,0.0
+85,Denmark,Lem,Lem Kær 1.2 MW ESS Demo - Vestas Wind Systems,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.2,56.0251898,8.38,GESDB,0.0,0.0,0.0,0.0
+86,Denmark,Sønderborg,GO Development Pumped Hydro Demonstration Project,Operational,Mechanical,Pumped Hydro Storage (PHS),0.006,54.92273,9.68,GESDB,0.0,19.0,90.10000000000001,19.0
+87,Estonia,Alutaguse,Estonia PSPP,Announced,Mechanical,Pumped Hydro Storage (PHS),50.0,59.3544019,26.9710682,EU Data,0.0,19.0,90.10000000000001,19.0
+88,Estonia,Paldiski,Paldiski Hydro,Announced,Mechanical,Pumped Hydro Storage (PHS),500.0,59.349089,24.0801736,EU Data,0.0,19.0,90.10000000000001,19.0
+89,Finland,Espoo,Sello Shopping Centre,Operational,ElectroChemical,Lithium-ion batteries,2.0,60.2052,24.6522,Energy Authority / Siemens,0.0,520.0,760.0,200.0
+90,Finland,Espoo,Suomenoja Power Plant - Fortum / Saft,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,2.0,60.2054911,24.66,GESDB,0.0,0.0,0.0,0.0
+91,Finland,Helsinki,Helen BESS - Landis+Gyr (Toshiba Group),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.2,60.1698557,24.94,GESDB,0.0,0.0,0.0,0.0
+92,Finland,Järvenpää,LIDL Distribution Centre,Under Construction,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,2.6,60.4743601,25.0925118,EU Data,0.0,0.0,0.0,0.0
+93,Finland,Kuru,Kuru,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.3,61.8783837,23.7281893,EU Data,0.0,0.0,0.0,0.0
+94,Finland,Simo,Viinamäki (wind farm),Under Construction,ElectroChemical,Lithium-ion batteries,6.0,65.66667,25.05,Energy Authority / Tuuliwatti Oy,0.0,520.0,760.0,200.0
+95,France,Aime,CENTRALE DE PONT THIERET,Operational,Mechanical,Pumped Hydro Storage (PHS),0.6,45.5555869,6.622979418,EU Data,0.0,19.0,90.10000000000001,19.0
+96,France,Ajaccio,Univeristy of Corsica MYRTE Test Platform,Operational,Electro-chemical battery and chemical storage,Power to Gas (H2),0.15,41.9075304,8.66,GESDB,0.0,0.0,0.0,0.0
+98,France,Argentat,Argentat Pumped Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),48.0,45.1042411,1.9538699302,GESDB,0.0,19.0,90.10000000000001,19.0
+99,France,Bellac,Ringo,Announced,ElectroChemical,Lithium-ion batteries,10.0,46.1221,1.04927,https://www.cre.fr/content/download/16730/206315,0.0,520.0,760.0,200.0
+100,France,Bellac,Ringo-2,Announced,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,10.0,46.1209036,1.0502545,EU Data,0.0,0.0,0.0,0.0
+101,France,Carbonne,EDF DPIH CARBONNE,Operational,Mechanical,Pumped Hydro Storage (PHS),0.4,43.2958159,1.2250686,EU Data,0.0,19.0,90.10000000000001,19.0
+102,France,Carros,Carros NICE GRID Primary Substation Battery (PSB) Project,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.1,43.792389,7.19,GESDB,0.0,0.0,0.0,0.0
+103,France,Carros,NICE GRID project in Carros (Southern France): Low Voltage Grid Batteries (LVGB),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.033,43.7846,7.18785,GESDB,0.0,0.0,0.0,0.0
+104,France,Carros,NICE GRID project in Carros (Southern France): Secondary Substation Battery (SSB),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.25,43.792389,7.19,GESDB,0.0,0.0,0.0,0.0
+105,France,Colombiers,EDF EN Gabardone Project,Operational,Electro-chemical battery and chemical storage,Sodium Sulphur batteries,0.02,43.3141,3.13966,GESDB,0.0,0.0,0.0,0.0
+106,France,Corse,Alata,Operational,Electro-chemical battery and chemical storage,,2.4,42.18808965,9.068413771,EU Data,0.0,0.0,0.0,0.0
+107,France,Corte,Corsica 2 MW Storage by Saft and Schneider,Announced,Electro-chemical battery and chemical storage,Lithium-ion batteries,2.0,42.2918623,9.19,GESDB,0.0,0.0,0.0,0.0
+109,France,Ghisonaccia,Alba Nova 1 Solar Power Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),12.0,42.016837,9.4,GESDB,0.0,0.0,0.0,0.0
+110,France,Guadeloupe,Guadeloupe Li-ion Energy to Grid Test,De-Commissioned,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.107,16.2411,-61.53,GESDB,0.0,0.0,0.0,0.0
+111,France,Guyane ,Savane des pères,Under Construction,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,2.6,4.0039882,-52.999998,EU Data,0.0,0.0,0.0,0.0
+112,France,Ham-sur-Meuse,BARRAGE HYDRAULIQUE DE HAM,Operational,Mechanical,Pumped Hydro Storage (PHS),0.9,50.1101646,4.780308,EU Data,0.0,19.0,90.10000000000001,19.0
+113,France,Jonzac,NWJ Box,Operational,ElectroChemical,Unknown,1.0,45.44636,-0.43485,http://nw-groupe.fr/nwj-box-stockage-denergie/,2018.0,0.0,0.0,0.0
+114,France,La Richardais,La Rance Tidal Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),240.0,48.6180022,-2.02,GESDB,0.0,19.0,90.10000000000001,19.0
+115,France,Le Bourget du Lac,INES Project,Operational,Electro-chemical battery and chemical storage,Sodium Sulphur batteries,0.12,45.643314,5.8746984548,GESDB,0.0,0.0,0.0,0.0
+116,France,Le Cheylas,Le Cheylas Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),480.0,45.38386455,5.9883044319,GESDB,0.0,19.0,90.10000000000001,19.0
+117,France,Le Port,Bardzour Solar Farm and Storage Project,Contracted,Electro-chemical battery and chemical storage,Lithium-ion batteries,4.5,-20.949347,55.31,GESDB,0.0,0.0,0.0,0.0
+118,France,Le Truel,Le Pouget Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),445.0,44.059565,2.77,GESDB,0.0,19.0,90.10000000000001,19.0
+119,France,Le-Puy-en-Velay,Blue Solutions - Le-Puy-en-Velay 35kWc PV,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.02,45.228669,3.532162,GESDB,0.0,0.0,0.0,0.0
+120,France,Les Renardières,EDF R&D Les Renardières Concept Grid ESS,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.0,48.371189,2.84,GESDB,0.0,0.0,0.0,0.0
+121,France,Llo,Llo Solar Thermal Project,Contracted,Thermal,Sensible Thermal Energy Storage (STES),9.0,42.455625,2.06,GESDB,0.0,0.0,0.0,0.0
+122,France,Montézic,Montézic Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),910.0,44.709426,2.64,GESDB,0.0,19.0,90.10000000000001,19.0
+123,France,Moutiers,La Coche 1 2 3 4,Operational,Mechanical,Pumped Hydro Storage (PHS),320.0,47.96655,-1.21485,Power Plant Tracker,1976.0,19.0,90.10000000000001,19.0
+124,France,Moutiers,La Coche Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),310.0,45.482708099999996,6.5327414,GESDB,0.0,19.0,90.10000000000001,19.0
+125,France,Nîmes,Blue Solutions - NÃƒÂ®mes 200kWh of LMP Batteries,De-Commissioned,Electro-chemical battery and chemical storage,Lead Acid batteries,0.05,43.503995,4.21361,GESDB,0.0,0.0,0.0,0.0
+126,France,Odet,Blue Solutions - Odet 2MWh LMP Battery System,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.5,48.131235,-4.116208,GESDB,0.0,0.0,0.0,0.0
+127,France,Orbey,Lac Noir Pumped Storage Power Plant,De-Commissioned,Mechanical,Pumped Hydro Storage (PHS),82.0,48.113108,7.0968646808,GESDB,0.0,19.0,90.10000000000001,19.0
+128,France,Orvanne,ElectricitÃƒÂ© de France (EDF) Paris Concept Grid Flywheel ESS,Operational,Mechanical,Flywheel,0.0,48.3603526,2.8268921,GESDB,0.0,2750.0,5406.0,1750.0
+129,France,Paris,DIY ESS - 5kWh LiFePO4,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.002,48.8588897,2.3200410217,GESDB,0.0,0.0,0.0,0.0
+130,France,Revin,Revin Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),800.0,49.9218041,4.6,GESDB,0.0,19.0,90.10000000000001,19.0
+131,France,Sainte-Agnès,SNC DE LA GORGE,Operational,Mechanical,Pumped Hydro Storage (PHS),2.7,45.2360365,5.9251839,EU Data,0.0,19.0,90.10000000000001,19.0
+132,France,St. Andre,Reunion Island Pegase Project,Operational,Electro-chemical battery and chemical storage,Sodium Sulphur batteries,1.0,-20.96,55.65,GESDB,0.0,0.0,0.0,0.0
+133,France,Toulouse,ADEME Intelligent Electricity Networks - Industrial Area Demonstration,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,3.3000000000000003,43.6040202,1.48,GESDB,0.0,0.0,0.0,0.0
+134,France,Toulouse,BattGrid,Operational,ElectroChemical,Lithium-ion batteries,1.0,43.60426,1.44367,https://www.engie.com/wp-content/uploads/2016/09/cp_service_reglage_frequence_battgrid.pdf,2016.0,520.0,760.0,200.0
+135,France,Toulouse,"Smart ZAE Flywheel Project - COFELY INEO - 170kWp of Solar panels, 15kW of Wind Generation",Operational,Mechanical,Flywheel,0.1,43.6491455,1.4629157,GESDB,0.0,2750.0,5406.0,1750.0
+136,France,Tulle,Blue Solutions - Tulle 200kWh of LMP Batteries,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,45.1539575,1.465519,GESDB,0.0,0.0,0.0,0.0
+137,France,Valmeinier,Super Bissorte Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),748.0,45.183414,6.48,GESDB,0.0,19.0,90.10000000000001,19.0
+138,France,Vaucresson,Blue Solutions - Vaucresson 2MWh LMP,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.5,48.5052069,2.1032041,GESDB,0.0,0.0,0.0,0.0
+139,France,Vaujany,Grand'Maison Dam Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),1820.0,45.2057207,6.1151773237,GESDB,0.0,19.0,90.10000000000001,19.0
+140,France,Ventavon,Ringo ,Announced,ElectroChemical,Lithium-Metal-Polymer batteries,10.0,44.37073,5.90565,https://www.cre.fr/content/download/16730/206315,0.0,0.0,0.0,0.0
+141,France,Ventavon,Ringo-3,Announced,Electro-chemical battery and chemical storage,Lithium-ion batteries,10.0,44.3706493,5.9053991,EU Data,0.0,0.0,0.0,0.0
+142,France,Vieux Pre,Vieux Pre,Operational,Mechanical,Pumped Hydro Storage (PHS),9.700000000000001,47.7132968,-2.5845976,EU Data,0.0,19.0,90.10000000000001,19.0
+143,France,Villefranche-de-Panat,Alrance Pumped Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),11.0,44.10696045,2.6956155384000002,GESDB,0.0,19.0,90.10000000000001,19.0
+144,France,Vingeanne,Ringo-1,Announced,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,12.0,48.6436953,4.973856067,EU Data,0.0,0.0,0.0,0.0
+145,Germany,-,RedT-Germany-10KW,Announced,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.01,51.165691,10.45,GESDB,0.0,0.0,0.0,0.0
+146,Germany,Aachen,M5BAT (Modular Multi-Megawatt Multi-Technology Medium-Voltage Battery Storage),De-Commissioned,Electro-chemical battery and chemical storage,Lead Acid batteries,5.0,50.7772165,6.1419195,GESDB,0.0,0.0,0.0,0.0
+147,Germany,Alt Daber,Energy Buffer Unit (EBU) - BELECTRIC GmbH,Operational,Electro-chemical battery and chemical storage,Lead Acid batteries,1.5,53.204087,12.5,GESDB,0.0,0.0,0.0,0.0
+148,Germany,Altes Land,10 kW / 100 kWh Haak Fruitfarm Gildemeister CellCube,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.01,53.6420342,10.06,GESDB,0.0,0.0,0.0,0.0
+149,Germany,Bad Säckingen,Säckingen Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),360.0,47.56540265,7.953007236,GESDB,0.0,19.0,90.10000000000001,19.0
+150,Germany,Bad Säckingen,Säckingen-1-2,Operational,Mechanical,Pumped Hydro Storage (PHS),180.0,47.55371,7.94612,Power Plant Tracker,1966.0,19.0,90.10000000000001,19.0
+151,Germany,Bad Säckingen,Säckingen-3-4,Operational,Mechanical,Pumped Hydro Storage (PHS),180.0,47.55371,7.94612,Power Plant Tracker,1966.0,19.0,90.10000000000001,19.0
+152,Germany,Berlin,Berliner Kraft- und Licht BEWAG Battery,De-Commissioned,Electro-chemical battery and chemical storage,Lead Acid batteries,8.5,52.5200066,13.4,GESDB,0.0,0.0,0.0,0.0
+153,Germany,Berlin,Qinous Demonstrator Site,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.1,52.4571175,13.5276733,GESDB,0.0,0.0,0.0,0.0
+154,Germany,Berlin,Younicos and Vattenfall Project,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.2,52.4274847,13.5462618,GESDB,0.0,0.0,0.0,0.0
+155,Germany,Bexbach,15 MW Energy Storage at Bexbach Cogeneration Plant - STEAG GmbH,Contracted,Electro-chemical battery and chemical storage,Lithium-ion batteries,15.0,49.3560225,7.26,GESDB,0.0,0.0,0.0,0.0
+156,Germany,Bielefeld,DMG Gildemeister CellCube Industrial Smart Grid,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.26,52.0302285,8.53,GESDB,0.0,0.0,0.0,0.0
+157,Germany,Borkum,Borkum Island - Smart Grid Project - Netfficient,Operational,Electro-chemical battery and chemical storage,,0.0,53.58591685,6.6914788152,GESDB,0.0,0.0,0.0,0.0
+158,Germany,Braderup,Bosch Braderup ES Facility,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.325,54.83235,8.9,GESDB,0.0,0.0,0.0,0.0
+159,Germany,Brunsbüttel,HySynGas,Announced,Chemical,Power to Gas (H2),50.0,53.8962,9.10459,https://www.pv-magazine.com/2019/04/04/vattenfall-led-consortium-plans-50-mw-power-to-gas-project-in-germany/,0.0,0.0,0.0,0.0
+160,Germany,Darmstadt,Web2Energy Smart Grid Project ,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.005,49.8776483,8.65,GESDB,0.0,0.0,0.0,0.0
+161,Germany,Deggendorf-Mietraching,Ruselkraftwerke Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),3.5,48.8476759,12.9792962,GESDB,0.0,19.0,90.10000000000001,19.0
+162,Germany,Dörverden,Dörverden 3 MW Battery Storage - Statkraft,Operational,Electro-chemical battery and chemical storage,,3.0,52.8469714,9.23,GESDB,0.0,0.0,0.0,0.0
+163,Germany,Eastern,EEBatt - Energy Neighbor Pilot Project,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.249,49.01487865,12.1029936068,GESDB,0.0,0.0,0.0,0.0
+164,Germany,Elsfleth,Kraftwerk Huntorf - 321-MW Plant Utilizes Nuclear-Sourced Night-Time Power,Operational,Mechanical,Compressed Air Energy Storage (CAES),290.0,53.1897685,8.4099915,GESDB,0.0,47.0,75.0,40.0
+165,Germany,Emden,Enercon Wind Turbine NaS BESS,Operational,Electro-chemical battery and chemical storage,Sodium Sulphur batteries,0.8,53.3594029,7.21,GESDB,0.0,0.0,0.0,0.0
+166,Germany,Erzhausen,Erzhausen Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),220.0,51.89933625,9.9261489915,GESDB,0.0,19.0,90.10000000000001,19.0
+167,Germany,Esslingen,iZEUS – Intelligent Zero Emission Urban System,De-Commissioned,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.15,48.7433425,9.32,GESDB,0.0,0.0,0.0,0.0
+168,Germany,Falkenhagen,"E.ON ""Power to Gas"" Pilot Plant Falkenhagen",Operational,Electro-chemical battery and chemical storage,Power to Gas (H2),1.0,53.2064644,12.2326645,GESDB,0.0,0.0,0.0,0.0
+169,Germany,"Feldheim, Treuenbrietzen",Feldheim Regional Regulating Power Station (RRKW),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,10.0,52.011579,12.82,GESDB,0.0,0.0,0.0,0.0
+170,Germany,Finnentrop,Rönkhausen Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),140.0,51.1736091,7.97,GESDB,0.0,19.0,90.10000000000001,19.0
+171,Germany,Forbach,Forbach-expansion,Announced,Mechanical,Pumped Hydro Storage (PHS),270.0,48.68333,8.35,Power Plant Tracker,0.0,19.0,90.10000000000001,19.0
+172,Germany,Forbach,Rudolf-Fettweis-2,Operational,Mechanical,Pumped Hydro Storage (PHS),43.0,48.68333,8.35,Power Plant Tracker,1926.0,19.0,90.10000000000001,19.0
+173,Germany,Forbach,Schwarzenbach Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),44.0,48.65441535,8.3300707366,GESDB,0.0,19.0,90.10000000000001,19.0
+174,Germany,Frankfurt am Main,Thüga-Demonstrationsprojekt Strom zu Gas - ITM Power plc,Operational,Electro-chemical battery and chemical storage,Power to Gas (H2),0.32,50.1191737,8.7402773,GESDB,0.0,0.0,0.0,0.0
+175,Germany,Garching bei München,Max Planck Institute ASDEX-Upgrade Pulsed Power Supply System - 155 MW With Pulse Duration of 9.7 sec.,Operational,Mechanical,Flywheel,387.0,48.2632698,11.671654,GESDB,0.0,2750.0,5406.0,1750.0
+176,Germany,Geesthacht,Geesthacht,Operational,Mechanical,Pumped Hydro Storage (PHS),119.1,53.43575,10.3779,Power Plant Tracker,1958.0,19.0,90.10000000000001,19.0
+177,Germany,Geesthacht,Geesthacht Pumped Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),120.0,53.4379562,10.36,GESDB,0.0,19.0,90.10000000000001,19.0
+178,Germany,Gemünden,Langenprozelten,Operational,Mechanical,Pumped Hydro Storage (PHS),164.0,49.89444,7.4775,Power Plant Tracker,1974.0,19.0,90.10000000000001,19.0
+179,Germany,Gemünden,Langenprozelten Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),164.0,50.0591312,9.627673099999999,GESDB,0.0,19.0,90.10000000000001,19.0
+180,Germany,Goldisthal,Goldisthal Pumped Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),1060.0,50.509,11.003,GESDB,0.0,19.0,90.10000000000001,19.0
+181,Germany,Goldisthal,Goldisthal-A,Operational,Mechanical,Pumped Hydro Storage (PHS),265.0,50.52066,11.00519,Power Plant Tracker,2004.0,19.0,90.10000000000001,19.0
+182,Germany,Goldisthal,Goldisthal-B,Operational,Mechanical,Pumped Hydro Storage (PHS),265.0,50.52066,11.00519,Power Plant Tracker,2004.0,19.0,90.10000000000001,19.0
+183,Germany,Goldisthal,Goldisthal-C,Operational,Mechanical,Pumped Hydro Storage (PHS),265.0,50.52066,11.00519,Power Plant Tracker,2004.0,19.0,90.10000000000001,19.0
+184,Germany,Goldisthal,Goldisthal-D,Operational,Mechanical,Pumped Hydro Storage (PHS),265.0,50.52066,11.00519,Power Plant Tracker,2004.0,19.0,90.10000000000001,19.0
+185,Germany,Grapzow,Grapzow 140 MW Wind Park with 1 MW Power to Gas System,Operational,Electro-chemical battery and chemical storage,Power to Gas (H2),1.0,53.71199,13.29,GESDB,0.0,0.0,0.0,0.0
+186,Germany,Hamburg,Bosch Second Life Batteries,Announced,Electro-chemical battery and chemical storage,Lithium-ion batteries,2.0,53.5510846,9.99,GESDB,0.0,0.0,0.0,0.0
+187,Germany,Hamburg,Power to Gas Plant in Reitbrook,Contracted,Electro-chemical battery and chemical storage,Power to Gas (H2),0.8,53.4850299,10.1159276,GESDB,0.0,0.0,0.0,0.0
+188,Germany,Happurg,Happurg Pumped Storage Power Plant,Offline/Under Repair,Mechanical,Pumped Hydro Storage (PHS),160.0,49.4870233,11.4746858616,GESDB,0.0,19.0,90.10000000000001,19.0
+189,Germany,Happurg,Happurg-1-2-3-4,Operational,Mechanical,Pumped Hydro Storage (PHS),160.0,49.49372,11.47119,Power Plant Tracker,1958.0,19.0,90.10000000000001,19.0
+190,Germany,Herdecke,Herdecke Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),153.0,51.4031667,7.43,GESDB,0.0,19.0,90.10000000000001,19.0
+191,Germany,Herdecke,Herdecke-1,Operational,Mechanical,Pumped Hydro Storage (PHS),132.0,51.39999,7.43584,Power Plant Tracker,1927.0,19.0,90.10000000000001,19.0
+192,Germany,Herdecke,Koepchenwerk / Ruhr,Operational,Mechanical,Pumped Hydro Storage (PHS),165.0,51.39999,7.43584,Power Plant Tracker,1989.0,19.0,90.10000000000001,19.0
+193,Germany,Herne,15 MW Energy Storage at Herne Cogeneration Plant - STEAG GmbH,Contracted,Electro-chemical battery and chemical storage,Lithium-ion batteries,15.0,51.5368948,7.2,GESDB,0.0,0.0,0.0,0.0
+194,Germany,Herne,15 MW Energy Storage at Herne Cogeneration Plant - STEAG GmbH,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,15.0,51.6104829,7.53,GESDB,0.0,0.0,0.0,0.0
+195,Germany,Herrenhausen,Daimler AG 15 MWh,Under Construction,Electro-chemical battery and chemical storage,Lithium-ion batteries,15.0,52.4089418,9.67,GESDB,0.0,0.0,0.0,0.0
+196,Germany,Hochsauerlandkreis,Sorpesee Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),7.42,51.35034575,7.9702758722,GESDB,0.0,19.0,90.10000000000001,19.0
+197,Germany,Hohenwarte,Hohenwarte-1,Operational,Mechanical,Pumped Hydro Storage (PHS),59.8,50.6,11.48333,Power Plant Tracker,1959.0,19.0,90.10000000000001,19.0
+198,Germany,Hohenwarte,Hohenwarte-2,Operational,Mechanical,Pumped Hydro Storage (PHS),317.8,50.6,11.48333,Power Plant Tracker,1965.0,19.0,90.10000000000001,19.0
+199,Germany,Häusern,Häusern Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),100.0,47.75523615,8.1870196534,GESDB,0.0,19.0,90.10000000000001,19.0
+200,Germany,Häusern,Häusern-1-2-3-4,Operational,Mechanical,Pumped Hydro Storage (PHS),100.0,47.75,8.16667,Power Plant Tracker,1931.0,19.0,90.10000000000001,19.0
+201,Germany,Island Pellworm,SmartRegion Pellworm,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.2,54.523474,8.67,GESDB,0.0,0.0,0.0,0.0
+202,Germany,Juelich,Juelich DuraStor - 420 kW Fkywheel,Operational,Mechanical,Flywheel,0.42,50.9323312,6.3782481,GESDB,0.0,2750.0,5406.0,1750.0
+203,Germany,Jülich,"Julich Solar Tower - Kraftanlagen München; German Aerospace Center, Solar-Institute Jülich",Operational,Thermal,Sensible Thermal Energy Storage (STES),1.5,50.914,6.3870000000000005,GESDB,0.0,0.0,0.0,0.0
+204,Germany,Karlsruhe,Battery Energy Storage System (BESS) - AC-Linked System,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.03,49.0093855,8.4123195,GESDB,0.0,0.0,0.0,0.0
+205,Germany,Karlsruhe,Battery Energy Storage System (BESS) - DC-Linked System,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.25,49.0093855,8.4123195,GESDB,0.0,0.0,0.0,0.0
+206,Germany,Kelsterbach,Süwag - Bosch Community ESS,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,50.0597078,8.53,GESDB,0.0,0.0,0.0,0.0
+207,Germany,Kirchentellinsfurt,Kirchentellinsfurt Hydroelectric Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),1.3,48.536,9.133,GESDB,0.0,19.0,90.10000000000001,19.0
+208,Germany,Kisselbach,Smart Operator Kisselbach Pb,Operational,Electro-chemical battery and chemical storage,Lead Acid batteries,0.075,50.051613,7.6089373,GESDB,0.0,0.0,0.0,0.0
+209,Germany,Koblenz,VRB ESS Green Vision ,Contracted,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.2,50.3569429,7.59,GESDB,0.0,0.0,0.0,0.0
+210,Germany,Koblenz,VRB High Performance Vanadium Redox Flow ,Under Construction,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.2,50.383743,7.6,GESDB,0.0,0.0,0.0,0.0
+211,Germany,Kreiensen,Erzhausen,Operational,Mechanical,Pumped Hydro Storage (PHS),220.0,51.85363,9.96481,Power Plant Tracker,1964.0,19.0,90.10000000000001,19.0
+212,Germany,Landshut,Reisach,Operational,Mechanical,Pumped Hydro Storage (PHS),99.0,48.52961,12.16179,Power Plant Tracker,1955.0,19.0,90.10000000000001,19.0
+213,Germany,Lügde,Hochtief Lügde,Announced,Mechanical,Pumped Hydro Storage (PHS),320.0,51.95828,9.24706,Power Plant Tracker,2020.0,19.0,90.10000000000001,19.0
+214,Germany,Lünen,Daimler 2nd Life Storage - The Mobility House,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,13.0,51.61680325,7.4634514,GESDB,0.0,0.0,0.0,0.0
+215,Germany,Magdeburg,30 MW SK Innovation BESS,Announced,Electro-chemical battery and chemical storage,Lithium-ion batteries,30.0,52.1205333,11.63,GESDB,0.0,0.0,0.0,0.0
+216,Germany,Mainz,Energiepark Mainz,Operational,Electro-chemical battery and chemical storage,Power to Gas (H2),6.0,49.9928617,8.25,GESDB,0.0,0.0,0.0,0.0
+217,Germany,Markersbach,Markersbach Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),1050.0,50.53528,12.86,GESDB,0.0,19.0,90.10000000000001,19.0
+218,Germany,Markersbach,Markersbach-A,Operational,Mechanical,Pumped Hydro Storage (PHS),174.0,50.53545,12.86149,Power Plant Tracker,1979.0,19.0,90.10000000000001,19.0
+219,Germany,Markersbach,Markersbach-B,Operational,Mechanical,Pumped Hydro Storage (PHS),174.0,50.53545,12.86149,Power Plant Tracker,1979.0,19.0,90.10000000000001,19.0
+220,Germany,Markersbach,Markersbach-C,Operational,Mechanical,Pumped Hydro Storage (PHS),174.0,50.53545,12.86149,Power Plant Tracker,1979.0,19.0,90.10000000000001,19.0
+221,Germany,Markersbach,Markersbach-D,Operational,Mechanical,Pumped Hydro Storage (PHS),174.0,50.53545,12.86149,Power Plant Tracker,1979.0,19.0,90.10000000000001,19.0
+222,Germany,Markersbach,Markersbach-E,Operational,Mechanical,Pumped Hydro Storage (PHS),174.0,50.53545,12.86149,Power Plant Tracker,1979.0,19.0,90.10000000000001,19.0
+223,Germany,Markersbach,Markersbach-F,Operational,Mechanical,Pumped Hydro Storage (PHS),174.0,50.53545,12.86149,Power Plant Tracker,1979.0,19.0,90.10000000000001,19.0
+224,Germany,Metzingen,Glems Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),90.0,48.5087265,9.2892542,GESDB,0.0,19.0,90.10000000000001,19.0
+225,Germany,Munich,IHEM - Intelligent HomeEnergyManagement,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.003,48.1440989,11.57,GESDB,0.0,0.0,0.0,0.0
+226,Germany,Münster,Fast-Charging e-Bus Münster,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.055,51.9391158,7.6432415293,GESDB,0.0,0.0,0.0,0.0
+227,Germany,Neuhardenberg,BESS Neuhardenberg,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,5.0,52.60161555,14.24078005,GESDB,0.0,0.0,0.0,0.0
+228,Germany,Neumarkt,Cellcube-Willibald-Gluck High School,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.03,49.279624,11.4594662,GESDB,0.0,0.0,0.0,0.0
+229,Germany,Niederwartha,Niederwartha Pumped Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),40.0,51.093356,13.6,GESDB,0.0,19.0,90.10000000000001,19.0
+230,Germany,Nuremberg,Caterva SWARM,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.3,49.45203,11.08,GESDB,0.0,0.0,0.0,0.0
+231,Germany,Pfinztal,RedoxWind - The Fraunhofer Institute for Chemical Technology (ICT),Announced/Never Built,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,2.0,48.9780878,8.54,GESDB,0.0,0.0,0.0,0.0
+232,Germany,Reick,DREWAG Reick 2 MW Pilot,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,2.0,51.015794,13.79,GESDB,0.0,0.0,0.0,0.0
+233,Germany,Saalfeld,Hohenwarte Pumped Storage Scheme,Operational,Mechanical,Pumped Hydro Storage (PHS),383.0,50.6492736,11.37,GESDB,0.0,19.0,90.10000000000001,19.0
+234,Germany,Saarbrücken,Customer Project,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.055,49.2471081,6.9974954265000004,GESDB,0.0,0.0,0.0,0.0
+235,Germany,Schleiz,Bleiloch,Operational,Mechanical,Pumped Hydro Storage (PHS),79.8,50.57866,11.81024,Power Plant Tracker,1932.0,19.0,90.10000000000001,19.0
+236,Germany,Schleiz,Bleiloch Pumped Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),80.0,50.52461925,11.7146271758,GESDB,0.0,19.0,90.10000000000001,19.0
+237,Germany,Schwabmunchen,Smart Operator,Operational,Electro-chemical battery and chemical storage,Lead Acid batteries,0.075,48.1753596,10.7470418,GESDB,0.0,0.0,0.0,0.0
+238,Germany,Schweich,Schweich,Announced,Mechanical,Pumped Hydro Storage (PHS),300.0,49.82215,6.75256,Power Plant Tracker,2021.0,19.0,90.10000000000001,19.0
+239,Germany,Schwenningen,Intelligentes Netz Energie Speicher System (INESS),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.027,48.930813,10.11,GESDB,0.0,0.0,0.0,0.0
+240,Germany,Schwerin,WEMAG Schwerin Battery Park - Younicos,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,15.0,53.635359,11.4,GESDB,0.0,0.0,0.0,0.0
+241,Germany,Staßfurt,"Adele CAES Project - Sachsen-Anhalt, Germany",Announced,Mechanical,Compressed Air Energy Storage (CAES),200.0,51.8608995,11.5790389,GESDB,0.0,47.0,75.0,40.0
+242,Germany,Stuttgart,EnBW Stuttgart Hydrogen Testing Facility,Operational,Electro-chemical battery and chemical storage,Power to Gas (H2),0.4,48.7754181,9.18,GESDB,0.0,0.0,0.0,0.0
+243,Germany,Trausnitz,Pfreimd I,Operational,Mechanical,Pumped Hydro Storage (PHS),28.0,49.52114,12.26249,Power Plant Tracker,1958.0,19.0,90.10000000000001,19.0
+244,Germany,Trausnitz,Pfreimd II,Operational,Mechanical,Pumped Hydro Storage (PHS),99.0,49.52114,12.26249,Power Plant Tracker,1955.0,19.0,90.10000000000001,19.0
+245,Germany,Trausnitz,Reisach Pumped Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),99.0,49.5184508,12.2726348,GESDB,0.0,19.0,90.10000000000001,19.0
+246,Germany,Trausnitz,Tanzmühle,Operational,Mechanical,Pumped Hydro Storage (PHS),28.0,49.52114,12.26249,Power Plant Tracker,1955.0,19.0,90.10000000000001,19.0
+247,Germany,Trier,Rio,Announced,Mechanical,Pumped Hydro Storage (PHS),390.0,49.75565,6.63935,Power Plant Tracker,0.0,19.0,90.10000000000001,19.0
+248,Germany,Tussenhausen,SmartPowerFlow Project - Gildemeister,De-Commissioned,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.2,48.1005133,10.56,GESDB,0.0,0.0,0.0,0.0
+249,Germany,Tännesberg,Tanzmühle Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),35.0,49.5538657,12.2839446,GESDB,0.0,19.0,90.10000000000001,19.0
+250,Germany,Ulm,HIU PV-Battery System,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.06,48.4264024,9.960020767,GESDB,0.0,0.0,0.0,0.0
+251,Germany,Untergriesbach,Riedl Energy Storage Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),300.0,48.5750459,13.67,GESDB,0.0,19.0,90.10000000000001,19.0
+252,Germany,Vagen,Leitzachwerk II,Operational,Mechanical,Pumped Hydro Storage (PHS),49.2,47.8483283,11.86,GESDB,0.0,19.0,90.10000000000001,19.0
+253,Germany,Vagen,Vagen 1,Operational,Mechanical,Pumped Hydro Storage (PHS),48.0,47.8743361,11.8817544,EU Data,0.0,19.0,90.10000000000001,19.0
+254,Germany,Vagen,Vagen 2,Operational,Mechanical,Pumped Hydro Storage (PHS),44.0,47.8743361,11.8817544,EU Data,0.0,19.0,90.10000000000001,19.0
+255,Germany,Volklingen,1 MW LESSY Volklingen-Fenne Power Plant - STEAG,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.0,49.2556226,6.86,GESDB,0.0,0.0,0.0,0.0
+256,Germany,Volklingen-Fenne,15 MW Energy Storage at Volklingen-Fenne Cogeneration Plant - STEAG GmbH,Contracted,Electro-chemical battery and chemical storage,Lithium-ion batteries,15.0,49.2489783,6.88,GESDB,0.0,0.0,0.0,0.0
+257,Germany,Waldeck-Frankenberg,Waldeck I Pumped Hydro Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),140.0,51.1624468,9.06,GESDB,0.0,19.0,90.10000000000001,19.0
+258,Germany,Waldeck-Frankenberg,Waldeck II,Operational,Mechanical,Pumped Hydro Storage (PHS),480.0,51.1624468,9.06,GESDB,0.0,19.0,90.10000000000001,19.0
+259,Germany,Waldshut-Tiengen,Waldshut Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),150.0,47.61773465,8.1927126837,GESDB,0.0,19.0,90.10000000000001,19.0
+260,Germany,Waldshut-Tiengen,Waldshut-1-2-3-4,Operational,Mechanical,Pumped Hydro Storage (PHS),150.0,47.62323,8.21717,Power Plant Tracker,1951.0,19.0,90.10000000000001,19.0
+261,Germany,Walsum,15 MW Energy Storage at Walsum Cogeneration Plant - STEAG GmbH,Contracted,Electro-chemical battery and chemical storage,Lithium-ion batteries,15.0,51.5278689,6.72,GESDB,0.0,0.0,0.0,0.0
+262,Germany,Wehr,Wehr Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),910.0,47.6522843,7.925842908,GESDB,0.0,19.0,90.10000000000001,19.0
+263,Germany,Wehr,Wehr-1-2,Operational,Mechanical,Pumped Hydro Storage (PHS),455.0,50.41667,7.21667,Power Plant Tracker,1975.0,19.0,90.10000000000001,19.0
+264,Germany,Wehr,Wehr-3-4,Operational,Mechanical,Pumped Hydro Storage (PHS),455.0,50.41667,7.21667,Power Plant Tracker,1975.0,19.0,90.10000000000001,19.0
+265,Germany,Weiher,15 MW Energy Storage at Weiher Cogeneration Plant - STEAG GmbH,Contracted,Electro-chemical battery and chemical storage,Lithium-ion batteries,15.0,49.2964517,7.35,GESDB,0.0,0.0,0.0,0.0
+266,Germany,Wendefurth,Wendefurth Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),80.0,51.7421714,10.9186825,GESDB,0.0,19.0,90.10000000000001,19.0
+267,Germany,Werlte,Audi e-gas Project,Operational,Electro-chemical battery and chemical storage,Power to Gas (H2),6.0,52.8518701,7.6764179,GESDB,0.0,0.0,0.0,0.0
+268,Germany,Wettringen,250 kW / 1 MWh ElChe Wettringen,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.25,52.2475199,7.2478175,GESDB,0.0,0.0,0.0,0.0
+269,Germany,Wincheringen,Smart Operator Wincheringen,Operational,Electro-chemical battery and chemical storage,Lead Acid batteries,0.015,49.6095148,6.4263726,GESDB,0.0,0.0,0.0,0.0
+270,Germany,Zwiefalten,Netlab2 Sonderbuch,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.03,48.23081,9.46,GESDB,0.0,0.0,0.0,0.0
+271,Germany,Ühlingen-Birkendorf,Witznau Pumped Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),220.0,47.6914481,8.243211,GESDB,0.0,19.0,90.10000000000001,19.0
+273,Greece,Amfilochia,Hydro Pumped Storage Amfilochia,Announced,Mechanical,Pumped Hydro Storage (PHS),680.0,38.8632567,21.17,GESDB,0.0,19.0,90.10000000000001,19.0
+274,Greece,Paranesti,Thisavros Hydro Power Plant (Φράγμα Θησαυρού),Operational,Mechanical,Pumped Hydro Storage (PHS),384.0,41.267032,24.5,GESDB,0.0,19.0,90.10000000000001,19.0
+275,Greece,Rethymnon,Amari Pumped Hydro Hybrid Project,Announced,Mechanical,Pumped Hydro Storage (PHS),50.0,35.240117,24.81,GESDB,0.0,19.0,90.10000000000001,19.0
+276,Greece,Sfikia-Veria,Sfikia Pumped Hydro Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),315.0,40.3856573,22.21,GESDB,0.0,19.0,90.10000000000001,19.0
+277,Greece,Tilos Island,TILOS (Technology Innovation for the Local Scale Optimum Integration of Battery Energy Storage),Contracted,Electro-chemical battery and chemical storage,Sodium Sulphur batteries,0.8,36.4230663,27.37,GESDB,0.0,0.0,0.0,0.0
+278,Hungary,Budapest,Wärtsilä,Operational,ElectroChemical,Lithium-ion batteries,6.0,47.49835,19.04045,https://www.pv-magazine.com/2018/08/23/wartsila-completes-its-first-european-energy-storage-project/,2018.0,520.0,760.0,200.0
+279,Hungary,Tiszaújváros,IntelliStore 1000 - 1MWh Power Plant Balancing Power Optimization,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.5,47.9058537,21.0600999943,GESDB,0.0,0.0,0.0,0.0
+280,Ireland,Cork,Kealkill Battery Storage,Announced,ElectroChemical,,8.0,51.89797,-8.47061,,0.0,0.0,0.0,0.0
+281,Ireland,Cork,Killaveenoge Battery Storage,Submitted,ElectroChemical,,12.5,51.89797,-8.47061,,0.0,0.0,0.0,0.0
+282,Ireland,Cork,Mishells Cross Battery Storage,Announced,ElectroChemical,,10.0,51.89797,-8.47061,,0.0,0.0,0.0,0.0
+283,Ireland,Cork,Polefield Battery Energy Storage System,Announced,ElectroChemical,,10.0,51.89797,-8.47061,,0.0,0.0,0.0,0.0
+284,Ireland,Dublin,"Dublin, Ireland - Gaelectric, Tesla - 1 MW BESS",Contracted,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.0,53.3497645,-6.2602732,GESDB,0.0,0.0,0.0,0.0
+285,Ireland,Dublin,"Freqcon's Tallaght Smart Grid Testbed, Dublin Ecoult ",Operational,Electro-chemical battery and chemical storage,Lead Acid batteries,0.007,53.3497645,-6.2602732,GESDB,0.0,0.0,0.0,0.0
+286,Ireland,Dublin,"Gaelectric, Tesla - 1 MW BESS ",Announced,ElectroChemical,Lithium-ion batteries,1.0,53.33306,-6.24889,https://www.energystorageexchange.org/projects?q=&title=&technologyBroadCategory%5B%5D=Electro-chemical&technologyBroadCategory%5B%5D=Pumped%20Hydro%20Storage&technologyBroadCategory%5B%5D=Thermal%20Storage&technologyBroadCategory%5B%5D=Liquid%20Air%20Energy%20Storage&technologyBroadCategory%5B%5D=Hydrogen%20Storage&technologyBroadCategory%5B%5D=Lithium%20Ion%20Battery&technologyBroadCategory%5B%5D=Compressed%20Air%20Energy%20Storage&ratedPower%5Bmin%5D=&ratedPower%5Bmax%5D=&duration%5Bmin%5D=&duration%5Bmax%5D=&owner=&energyStorageTechnologyProvider=&powerElectronicsProvider=&oMContractor=&developer=&integratorCompany=&isoRto=&state=&country=Ireland&state=,0.0,520.0,760.0,200.0
+287,Ireland,Dublin,Sillogue Battery Storage Facility,Submitted,ElectroChemical,,30.0,53.33306,-6.24889,,0.0,0.0,0.0,0.0
+288,Ireland,Dublin,Tallaght Smart Grid Testbed,Operational,Electro-chemical battery and chemical storage,Supercapacitor,0.0,53.3497645,-6.2602732,GESDB,0.0,0.0,0.0,0.0
+289,Ireland,Dundalk,Dundalk Institute of Technology (DkIT) Wind Turbine Energy Storage - CALMAC ,Operational,Thermal,Phase Change Material (PCM),4.5600000000000005,53.9794545,-6.3932675,GESDB,0.0,0.0,0.0,0.0
+290,Ireland,Dundalk,Dundalk Institute of Technology (DkIT) Wind Turbine Energy Storage - CALMAC k,Operational,Thermal,,4.56,54.0,-6.41667,https://www.energystorageexchange.org/projects?q=&title=&technologyBroadCategory%5B%5D=Electro-chemical&technologyBroadCategory%5B%5D=Pumped%20Hydro%20Storage&technologyBroadCategory%5B%5D=Thermal%20Storage&technologyBroadCategory%5B%5D=Liquid%20Air%20Energy%20Storage&technologyBroadCategory%5B%5D=Hydrogen%20Storage&technologyBroadCategory%5B%5D=Lithium%20Ion%20Battery&technologyBroadCategory%5B%5D=Compressed%20Air%20Energy%20Storage&ratedPower%5Bmin%5D=&ratedPower%5Bmax%5D=&duration%5Bmin%5D=&duration%5Bmax%5D=&owner=&energyStorageTechnologyProvider=&powerElectronicsProvider=&oMContractor=&developer=&integratorCompany=&isoRto=&state=&country=Ireland&state=,0.0,0.0,0.0,0.0
+291,Ireland,Galway,Athenry ADC,Announced,ElectroChemical,,40.0,53.27245,-9.05095,,0.0,0.0,0.0,0.0
+292,Ireland,Galway,Barnaderg B.E.S.S.,Announced,ElectroChemical,,10.0,53.27245,-9.05095,,0.0,0.0,0.0,0.0
+293,Ireland,Kildare,"Moatstown Battery
+Energy Storage",Submitted,ElectroChemical,,8.0,53.15611,-6.91444,,0.0,0.0,0.0,0.0
+294,Ireland,Kilkenny,Glenmore Battery Storage,Announced,ElectroChemical,,4.0,52.65417,-7.25222,,0.0,0.0,0.0,0.0
+295,Ireland,Kilkenny,Sionhermitage (prev Nore Power G&S),Submitted,ElectroChemical,,40.0,52.65417,-7.25222,,0.0,0.0,0.0,0.0
+296,Ireland,Leitrim,Jamestown Battery Energy Storage System,Announced,ElectroChemical,,30.0,53.99083,-8.06361,,0.0,0.0,0.0,0.0
+297,Ireland,Limerick,Bawnmore Battery Storage,Announced,ElectroChemical,,16.0,52.66472,-8.62306,,0.0,0.0,0.0,0.0
+298,Ireland,Lough Nahanagan,Turlough Hill Pumped Storage,Operational,Mechanical,Pumped Hydro Storage (PHS),292.0,53.0280556,-6.39,GESDB,0.0,19.0,90.10000000000001,19.0
+299,Ireland,Mayo,MAREX,Under Construction,Mechanical,Pumped Hydro Storage (PHS),1.5,54.3161422,-9.6175689,GESDB,0.0,19.0,90.10000000000001,19.0
+300,Ireland,Rhode,Rhode Hybrid Demo Project - Hitachi Chemical,Operational,Electro-chemical battery and chemical storage,Lead Acid batteries,0.24,53.3495675,-7.1990013,GESDB,0.0,0.0,0.0,0.0
+301,Ireland,Rhode,Rhode Hybrid Flywheel Energy Storage Plant - Schwungrad Energie 4 150kW units,Operational,Mechanical,Flywheel,0.32,53.3499888,-7.1989629,GESDB,0.0,2750.0,5406.0,1750.0
+302,Ireland,Tipperary,Lisbrien B.E.S.S.,Announced,ElectroChemical,,10.0,52.47333,-8.15583,,0.0,0.0,0.0,0.0
+303,Ireland,Tipperary,Silvermines,Announced,Mechanical,Pumped Hydro Storage (PHS),360.0,52.47333,-8.15583,Power Plant Tracker,2020.0,19.0,90.10000000000001,19.0
+304,Ireland,Waterford,Ballymac Storage,Announced,ElectroChemical,,3.99,52.25833,-7.11194,,0.0,0.0,0.0,0.0
+306,Italy,Almisano,FIAMM Green Energy Island,Operational,Electro-chemical battery and chemical storage,Sodium Sulphur batteries,0.18,45.4287703,11.3735424687,GESDB,0.0,0.0,0.0,0.0
+307,Italy,Bargi,Bargi Hydro Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),330.0,44.1260632,11.06,GESDB,0.0,19.0,90.10000000000001,19.0
+308,Italy,Campolattaro,Campolattaro Pumped Hydro Storage Plant,Contracted,Mechanical,Pumped Hydro Storage (PHS),572.0,41.2876603,14.74,GESDB,0.0,19.0,90.10000000000001,19.0
+309,Italy,Campotosto,Provvidenza Hydro Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),156.0,42.5575092,13.37,GESDB,0.0,19.0,90.10000000000001,19.0
+310,Italy,Camugnano,Bargi,Operational,Mechanical,Pumped Hydro Storage (PHS),281.0,44.1711,11.08828,Power Plant Tracker,1975.0,19.0,90.10000000000001,19.0
+311,Italy,Capo d'Orlando,Tozzi Green - i-NEXT,Operational,Electro-chemical battery and chemical storage,Sodium Sulphur batteries,0.1,38.1355185,14.7358683,GESDB,0.0,0.0,0.0,0.0
+312,Italy,Capriati a Volturno,Capriati Hydro Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),115.0,41.5230896,14.13,GESDB,0.0,19.0,90.10000000000001,19.0
+313,Italy,Carpinone,Enel Isernia Smart Grid Project,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.0,41.5922026,14.32,GESDB,0.0,0.0,0.0,0.0
+314,Italy,Casuzze,Terna Grid Defense Plan Phase II (1),Announced,Electro-chemical battery and chemical storage,Lithium-ion batteries,20.0,37.5999938,14.02,GESDB,0.0,0.0,0.0,0.0
+315,Italy,Casuzze,Terna Grid Defense Plan Phase II (2),Announced,Electro-chemical battery and chemical storage,Sodium Sulphur batteries,4.0,37.5999938,14.02,GESDB,0.0,0.0,0.0,0.0
+316,Italy,Chiaravalle,Enel Chiaravalle Substation,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,2.0,38.679329,16.41,GESDB,0.0,0.0,0.0,0.0
+317,Italy,Ciminna,Terna Ciminna Substation - UET,Announced,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.45,37.8964116,13.56,GESDB,0.0,0.0,0.0,0.0
+318,Italy,Ciminna,"Terna Storage Lab 2, Sicily",Operational,Electro-chemical battery and chemical storage,Supercapacitor,0.92,37.8968159,13.5623449,GESDB,0.0,0.0,0.0,0.0
+319,Italy,Codrongianos,"Terna Storage Lab 1, Sardinia (1)",Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.0,40.657261,8.679816,GESDB,0.0,0.0,0.0,0.0
+320,Italy,Codrongianos,"Terna Storage Lab 1, Sardinia (2)",Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.2,40.657261,8.679816,GESDB,0.0,0.0,0.0,0.0
+321,Italy,Codrongianos,"Terna Storage Lab 1, Sardinia (3)",Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.0,40.657261,8.679816,GESDB,0.0,0.0,0.0,0.0
+322,Italy,Codrongianos,"Terna Storage Lab 1, Sardinia (4)",Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.08,40.657261,8.679816,GESDB,0.0,0.0,0.0,0.0
+323,Italy,Codrongianos,"Terna Storage Lab 1, Sardinia (5)",Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.0,40.657261,8.679816,GESDB,0.0,0.0,0.0,0.0
+324,Italy,Codrongianos,"Terna Storage Lab 1, Sardinia (6)",Operational,Electro-chemical battery and chemical storage,Sodium Sulphur batteries,1.2,40.657261,8.679816,GESDB,0.0,0.0,0.0,0.0
+325,Italy,Codrongianos,"Terna Storage Lab 1, Sardinia (7)",Operational,Electro-chemical battery and chemical storage,Sodium Sulphur batteries,1.0,40.657261,8.679816,GESDB,0.0,0.0,0.0,0.0
+326,Italy,Codrongianos,"Terna Storage Lab 1, Sardinia (8)",Announced,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,1.0,40.657261,8.679816,GESDB,0.0,0.0,0.0,0.0
+327,Italy,Codrongianos,"Terna Storage Lab 1, Sardinia (9)",Announced,Electro-chemical battery and chemical storage,Supercapacitor,1.0,40.657261,8.679816,GESDB,0.0,0.0,0.0,0.0
+328,Italy,Edolo,Edolo Pumped Storage Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),1000.0,46.1804266,10.33,GESDB,0.0,19.0,90.10000000000001,19.0
+329,Italy,Edolo,Edolo-1-2-3-4-5-6,Operational,Mechanical,Pumped Hydro Storage (PHS),977.6,46.17799,10.33322,Power Plant Tracker,1983.0,19.0,90.10000000000001,19.0
+330,Italy,Entracque,Chiotas Hydro Power Plant (Entracque Pumped Storage),Operational,Mechanical,Pumped Hydro Storage (PHS),1184.0,44.1775758,7.42,GESDB,0.0,19.0,90.10000000000001,19.0
+331,Italy,Entracque,Chiotas Piastra-1-2-3-4-5-6,Operational,Mechanical,Pumped Hydro Storage (PHS),1064.0,44.24028,7.39847,Power Plant Tracker,1974.0,19.0,90.10000000000001,19.0
+332,Italy,Entracque,Rovina Hydro Power Plant (Entracque Pumped Storage),Operational,Mechanical,Pumped Hydro Storage (PHS),134.0,44.2439659,7.4,GESDB,0.0,19.0,90.10000000000001,19.0
+333,Italy,Fadalto,Fadalto Hydro Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),210.0,46.0714347,12.34,GESDB,0.0,19.0,90.10000000000001,19.0
+334,Italy,Fano Adriano,San Giacomo al Vomano,Operational,Mechanical,Pumped Hydro Storage (PHS),490.0,42.5523,13.53764,Power Plant Tracker,0.0,19.0,90.10000000000001,19.0
+335,Italy,Flumeri,Terna SANC Project (1),Operational,Electro-chemical battery and chemical storage,Sodium Sulphur batteries,12.0,41.0760492,15.15,GESDB,0.0,0.0,0.0,0.0
+336,Italy,Foggia,Enel Puglia ESS,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,2.0,41.4621984,15.54,GESDB,0.0,0.0,0.0,0.0
+337,Italy,Forli-Cesena,GRID4EU Demo 4: Enel RCube,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.0,44.1396438,12.25,GESDB,0.0,0.0,0.0,0.0
+338,Italy,Gargnano,Gargnano,Operational,Mechanical,Pumped Hydro Storage (PHS),137.0,45.68586,10.65869,Power Plant Tracker,1964.0,19.0,90.10000000000001,19.0
+339,Italy,Gargnano,Villa Gargnano Hydro Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),137.20000000000002,45.6885992,10.66,GESDB,0.0,19.0,90.10000000000001,19.0
+340,Italy,Giaglione,Pont Ventoux-Susa Hydroelectric Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),158.0,45.139117,6.97,GESDB,0.0,19.0,90.10000000000001,19.0
+341,Italy,L'Aquila,Enel Voltage Regulation at L'Aquila,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.032,42.3489203,13.3979672,GESDB,0.0,0.0,0.0,0.0
+342,Italy,L'Aquila,Provvidenza,Operational,Mechanical,Pumped Hydro Storage (PHS),139.0,42.35055,13.39954,Power Plant Tracker,1949.0,19.0,90.10000000000001,19.0
+343,Italy,Lanzada,Campo Moro Hydro Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),36.5,46.2695803,9.87,GESDB,0.0,19.0,90.10000000000001,19.0
+344,Italy,Livorno,Enel Livorno Test Facility,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.01,43.548473,10.31,GESDB,0.0,0.0,0.0,0.0
+345,Italy,Maccagno,Ronco Valgrande,Operational,Mechanical,Pumped Hydro Storage (PHS),1000.0,46.04357,8.73413,Power Plant Tracker,1973.0,19.0,90.10000000000001,19.0
+346,Italy,Maccagno,Roncovalgrande (Lago Delio) Hydroelectric Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),1000.0,46.0033754,8.69,GESDB,0.0,19.0,90.10000000000001,19.0
+347,Italy,Miscano,Terna SANC Project (2),Operational,Electro-chemical battery and chemical storage,Sodium Sulphur batteries,12.0,41.3118227,15.0595831,GESDB,0.0,0.0,0.0,0.0
+348,Italy,Ovodda,Taloro,Operational,Mechanical,Pumped Hydro Storage (PHS),240.0,40.09525,9.16103,Power Plant Tracker,0.0,19.0,90.10000000000001,19.0
+349,Italy,Ovodda,Taloro Hydro Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),240.0,40.0948744,9.16,GESDB,0.0,19.0,90.10000000000001,19.0
+350,Italy,Piana Degli Albanesi,Gaudalami Hydro Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),80.0,37.9937488,13.29,GESDB,0.0,19.0,90.10000000000001,19.0
+351,Italy,Piana degli Albanesi,Guadalami,Operational,Mechanical,Pumped Hydro Storage (PHS),80.0,37.99372,13.28464,Power Plant Tracker,1961.0,19.0,90.10000000000001,19.0
+352,Italy,Presenzano,Domenico Cimarosa (Presenzano) Hydroelectric Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),1000.0,41.3766245,14.09,GESDB,0.0,19.0,90.10000000000001,19.0
+353,Italy,Presenzano,Presenzano-1,Operational,Mechanical,Pumped Hydro Storage (PHS),1005.0,41.37823,14.09162,Power Plant Tracker,1991.0,19.0,90.10000000000001,19.0
+354,Italy,Priolo Gargallo,Anapo Solarino - 1,Operational,Mechanical,Pumped Hydro Storage (PHS),125.0,37.15512,15.18248,Power Plant Tracker,1989.0,19.0,90.10000000000001,19.0
+355,Italy,Priolo Gargallo,Anapo Solarino - 2,Operational,Mechanical,Pumped Hydro Storage (PHS),125.0,37.15512,15.18248,Power Plant Tracker,1989.0,19.0,90.10000000000001,19.0
+356,Italy,Priolo Gargallo,Anapo Solarino - 3,Operational,Mechanical,Pumped Hydro Storage (PHS),125.0,37.15512,15.18248,Power Plant Tracker,1989.0,19.0,90.10000000000001,19.0
+357,Italy,Priolo Gargallo,Anapo Solarino - 4,Operational,Mechanical,Pumped Hydro Storage (PHS),125.0,37.15512,15.18248,Power Plant Tracker,1989.0,19.0,90.10000000000001,19.0
+358,Italy,Priolo Gargallo,Archimede,Operational,Thermal,Molten salts,4.72,37.15512,15.18248,https://solarpaces.nrel.gov/by-country/IT,0.0,0.0,0.0,0.0
+359,Italy,Priolo Gargallo,Archimede Solar Power Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),4.72,37.1578584,15.18,GESDB,0.0,0.0,0.0,0.0
+360,Italy,Raffineria,ACEA Raffineria Substation Smart Grid ,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.01,41.85148495,12.3302764336,GESDB,0.0,0.0,0.0,0.0
+361,Italy,Ragusa,Enel Dirillo Substation BESS Project ,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,2.0,36.8711288,14.76,GESDB,0.0,0.0,0.0,0.0
+362,Italy,Riva del Garda,Ponale Test (Riva del Garda Ledro) Hydroelectric Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),80.0,45.8885171,10.84,GESDB,0.0,19.0,90.10000000000001,19.0
+363,Italy,Riva del Garda,Riva del Garda,Operational,Mechanical,Pumped Hydro Storage (PHS),117.0,45.88577,10.84117,Power Plant Tracker,1929.0,19.0,90.10000000000001,19.0
+364,Italy,Sant'Alberto,Tozzi Energy Storage System - TESS,Operational,Electro-chemical battery and chemical storage,Sodium Sulphur batteries,0.035,44.5173435,12.16,GESDB,0.0,0.0,0.0,0.0
+365,Italy,Savona,"Smart Polygeneration Microgrid, Univeristy of Genoa",Operational,Electro-chemical battery and chemical storage,Sodium Sulphur batteries,0.063,44.3455902,8.4376545,GESDB,0.0,0.0,0.0,0.0
+366,Italy,Scampitella,Terna SANC Project (3),Operational,Electro-chemical battery and chemical storage,Sodium Sulphur batteries,10.8,41.0911341,15.3,GESDB,0.0,0.0,0.0,0.0
+367,Italy,Scianica,San Fiorano Hydro Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),568.0,46.0551036,10.35,GESDB,0.0,19.0,90.10000000000001,19.0
+368,Italy,Sellero,San Fiorano-1,Operational,Mechanical,Pumped Hydro Storage (PHS),272.0,46.05145,10.34764,Power Plant Tracker,1973.0,19.0,90.10000000000001,19.0
+369,Italy,Sicily,Anapo (Solarino) Pumped Storage Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),600.0,37.10085,15.12,GESDB,0.0,19.0,90.10000000000001,19.0
+370,Italy,Teramo,Enel Voltage Regulation ESS at Teramo,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.032,42.6612893,13.6983524,GESDB,0.0,0.0,0.0,0.0
+371,Italy,Troia,INGRID Hydrogen Demonstration Project,Operational,Electro-chemical battery and chemical storage,Power to Gas (H2),1.2,41.3597802,15.31,GESDB,0.0,0.0,0.0,0.0
+372,Italy,Ultimo,Pracomune Hydro Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),42.0,46.5478079,11.01,GESDB,0.0,19.0,90.10000000000001,19.0
+373,Italy,Ventotene,Enel Ventotene Project - Siemens,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.3,40.7983097,13.43,GESDB,0.0,0.0,0.0,0.0
+374,Italy,Vezzano,San Massenza,Operational,Mechanical,Pumped Hydro Storage (PHS),377.0,46.07867,10.99735,Power Plant Tracker,1951.0,19.0,90.10000000000001,19.0
+375,Italy,Vicenza,Dal Molin Thermal Energy Storage,Operational,Thermal,Sensible Thermal Energy Storage (STES),0.4,45.5454787,11.54,GESDB,0.0,0.0,0.0,0.0
+376,Italy,Vittorio Veneto,Fadalto,Operational,Mechanical,Pumped Hydro Storage (PHS),220.0,45.98026,12.30065,Power Plant Tracker,1971.0,19.0,90.10000000000001,19.0
+377,Lithuania,Kruonis,Kruonis Hydro Pumped Storage & Extension Project,Operational,Mechanical,Pumped Hydro Storage (PHS),900.0,54.797866,24.25,GESDB,0.0,19.0,90.10000000000001,19.0
+378,Luxembourg,Vianden,Vianden 1,Operational,Mechanical,Pumped Hydro Storage (PHS),100.0,49.935,6.20889,Power Plant Tracker,1962.0,19.0,90.10000000000001,19.0
+379,Luxembourg,Vianden,Vianden 10,Operational,Mechanical,Pumped Hydro Storage (PHS),196.0,49.935,6.20889,Power Plant Tracker,1975.0,19.0,90.10000000000001,19.0
+380,Luxembourg,Vianden,Vianden 11,Operational,Mechanical,Pumped Hydro Storage (PHS),198.0,49.935,6.20889,Power Plant Tracker,2015.0,19.0,90.10000000000001,19.0
+381,Luxembourg,Vianden,Vianden 2,Operational,Mechanical,Pumped Hydro Storage (PHS),100.0,49.935,6.20889,Power Plant Tracker,1962.0,19.0,90.10000000000001,19.0
+382,Luxembourg,Vianden,Vianden 3,Operational,Mechanical,Pumped Hydro Storage (PHS),100.0,49.935,6.20889,Power Plant Tracker,1963.0,19.0,90.10000000000001,19.0
+383,Luxembourg,Vianden,Vianden 4,Operational,Mechanical,Pumped Hydro Storage (PHS),100.0,49.935,6.20889,Power Plant Tracker,1963.0,19.0,90.10000000000001,19.0
+384,Luxembourg,Vianden,Vianden 5,Operational,Mechanical,Pumped Hydro Storage (PHS),100.0,49.935,6.20889,Power Plant Tracker,1963.0,19.0,90.10000000000001,19.0
+385,Luxembourg,Vianden,Vianden 6,Operational,Mechanical,Pumped Hydro Storage (PHS),100.0,49.935,6.20889,Power Plant Tracker,1964.0,19.0,90.10000000000001,19.0
+386,Luxembourg,Vianden,Vianden 7,Operational,Mechanical,Pumped Hydro Storage (PHS),100.0,49.935,6.20889,Power Plant Tracker,1964.0,19.0,90.10000000000001,19.0
+387,Luxembourg,Vianden,Vianden 8,Operational,Mechanical,Pumped Hydro Storage (PHS),100.0,49.935,6.20889,Power Plant Tracker,1963.0,19.0,90.10000000000001,19.0
+388,Luxembourg,Vianden,Vianden 9,Operational,Mechanical,Pumped Hydro Storage (PHS),100.0,49.935,6.20889,Power Plant Tracker,1964.0,19.0,90.10000000000001,19.0
+389,Luxembourg,Vianden,Vianden Pumped Storage Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),1096.0,49.9341924,6.2,GESDB,0.0,19.0,90.10000000000001,19.0
+390,Netherlands,Afsluitdijk,Quick Charging EV's Powered by the Sun (Afsluitdijk A7),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,51.7977114,5.0578651,GESDB,0.0,0.0,0.0,0.0
+391,Netherlands,Amstelveen,Quick Charging EV's Powered by the Sun (Amstelveen A9),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,52.3025582,4.8467875,GESDB,0.0,0.0,0.0,0.0
+392,Netherlands,Amsterdam,Amsterdam Energy Arena,Contracted,Electro-chemical battery and chemical storage,,3.75,52.3137275,4.9405019,GESDB,0.0,0.0,0.0,0.0
+393,Netherlands,Amsterdam,Amsterdam Energy Arena ,Announced,ElectroChemical,Unknown,3.75,52.37403,4.88969,https://www.energystorageexchange.org/projects?q=&title=&technologyBroadCategory%5B%5D=Electro-chemical&technologyBroadCategory%5B%5D=Pumped%20Hydro%20Storage&technologyBroadCategory%5B%5D=Thermal%20Storage&technologyBroadCategory%5B%5D=Liquid%20Air%20Energy%20Storage&technologyBroadCategory%5B%5D=Hydrogen%20Storage&technologyBroadCategory%5B%5D=Lithium%20Ion%20Battery&technologyBroadCategory%5B%5D=Compressed%20Air%20Energy%20Storage&ratedPower%5Bmin%5D=&ratedPower%5Bmax%5D=&duration%5Bmin%5D=&duration%5Bmax%5D=&owner=&energyStorageTechnologyProvider=&powerElectronicsProvider=&oMContractor=&developer=&integratorCompany=&isoRto=&state=&country=Netherlands&state=,0.0,0.0,0.0,0.0
+394,Netherlands,Amsterdam,Johan Cruyff ArenA Storage - The Mobility House,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,4.0,52.3137275,4.9405019,GESDB,0.0,0.0,0.0,0.0
+395,Netherlands,Amsterdam,Johan Cruyff ArenA Storage - The Mobility House ,Operational,ElectroChemical,Lithium-ion batteries,4.0,52.37403,4.88969,https://www.energystorageexchange.org/projects?q=&title=&technologyBroadCategory%5B%5D=Electro-chemical&technologyBroadCategory%5B%5D=Pumped%20Hydro%20Storage&technologyBroadCategory%5B%5D=Thermal%20Storage&technologyBroadCategory%5B%5D=Liquid%20Air%20Energy%20Storage&technologyBroadCategory%5B%5D=Hydrogen%20Storage&technologyBroadCategory%5B%5D=Lithium%20Ion%20Battery&technologyBroadCategory%5B%5D=Compressed%20Air%20Energy%20Storage&ratedPower%5Bmin%5D=&ratedPower%5Bmax%5D=&duration%5Bmin%5D=&duration%5Bmax%5D=&owner=&energyStorageTechnologyProvider=&powerElectronicsProvider=&oMContractor=&developer=&integratorCompany=&isoRto=&state=&country=Netherlands&state=,0.0,520.0,760.0,200.0
+396,Netherlands,Arnhem,SOPRA HAN University,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.06,51.9878426,5.9501099,GESDB,0.0,0.0,0.0,0.0
+397,Netherlands,Beesd,Quick Charging EV's Powered by the Sun (Beesd A2),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,51.8994088,5.1958729,GESDB,0.0,0.0,0.0,0.0
+398,Netherlands,Bodegraven,Quick Charging EV's Powered by the Sun (Bodegraven A12),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,52.0834347,4.7510872,GESDB,0.0,0.0,0.0,0.0
+399,Netherlands,Breukelen,Quick Charging EV's Powered by the Sun (Breukelen),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,52.171959,5.002675,GESDB,0.0,0.0,0.0,0.0
+400,Netherlands,Bunnik,Quick Charging EV's Powered by the Sun (Bunnik A12),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,52.0632104,5.1957958,GESDB,0.0,0.0,0.0,0.0
+401,Netherlands,Delft,Quick Charging EV's Powered by the Sun (Delft A13),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,51.9994572,4.3627245385,GESDB,0.0,0.0,0.0,0.0
+402,Netherlands,Emmeloord,Quick Charging EV's Powered by the Sun (Ketelbrug A6),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,52.7091058,5.7477459,GESDB,0.0,0.0,0.0,0.0
+403,Netherlands,Etten-Leur,Etten-Leur Smart Storage - Enexis,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.4,51.5916384,4.6480069,GESDB,0.0,0.0,0.0,0.0
+404,Netherlands,Geldermalsen,Quick Charging EV's Powered by the Sun (Geldermalsen A2),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,51.8825577,5.2714789,GESDB,0.0,0.0,0.0,0.0
+405,Netherlands,Hague,SOPRA Zero Watt project,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.06,52.0704978,4.3,GESDB,0.0,0.0,0.0,0.0
+406,Netherlands,Heemskerk,Quick Charging EV's Powered by the Sun (Heemskerk A9),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,52.51011775,4.6350608871,GESDB,0.0,0.0,0.0,0.0
+407,Netherlands,Hoogblokland,Quick Charging EV's Powered by the Sun (Hoogblokland A27),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,51.8745997,4.9735161,GESDB,0.0,0.0,0.0,0.0
+408,Netherlands,Kralendijk,Bonaire Wind-Diesel Hybrid,Operational,Electro-chemical battery and chemical storage,Nickel-based batteries,3.0,12.1507,-68.28,GESDB,0.0,0.0,0.0,0.0
+409,Netherlands,Leiden,Quick Charging EV's Powered by the Sun (Leiden A4),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,52.1518157,4.4811088666,GESDB,0.0,0.0,0.0,0.0
+410,Netherlands,Lelystad,SOPRA WUR Farm,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.06,52.539799,5.5619939,GESDB,0.0,0.0,0.0,0.0
+411,Netherlands,Oranjestad,5 MW - WEB Aruba / Temporal Power (Phase 1),Announced,Mechanical,Flywheel,5.0,12.5092044,-70.0086306,GESDB,0.0,2750.0,5406.0,1750.0
+412,Netherlands,Ridderkerk,Quick Charging EV's Powered by the Sun (Ridderkerk A15),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,51.8709913,4.5926478975,GESDB,0.0,0.0,0.0,0.0
+413,Netherlands,Rotterdam,Rotterdam,Operational,ElectroChemical,,10.0,51.9225,4.47917,https://www.eqmagpro.com/large-scale-battery-prevents-dutch-wind-farms-power-from-being-wasted/,2019.0,0.0,0.0,0.0
+414,Netherlands,San Nicolas,Hydrostor UCAES Aruba Project - Low-Cost Air Cavity to the Bottom of a Lake or Ocean,Contracted,Mechanical,Compressed Air Energy Storage (CAES),1.0,12.4333333,-69.9166667,GESDB,0.0,47.0,75.0,40.0
+415,Netherlands,Vierakker,Fotonenboer 't Spieker Dairy Farm,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.01,52.1013808,6.2430783,GESDB,0.0,0.0,0.0,0.0
+416,Netherlands,Vlissingen,Vlissingen Advancion Energy Storage - AES,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,10.0,51.4536672,3.5700000000000003,GESDB,0.0,0.0,0.0,0.0
+417,Netherlands,Vlissingen,Vlissingen Advancion Energy Storage - AES ,Operational,ElectroChemical,Lithium-ion batteries,10.0,51.4425,3.57361,https://www.energystorageexchange.org/projects?q=&title=&technologyBroadCategory%5B%5D=Electro-chemical&technologyBroadCategory%5B%5D=Pumped%20Hydro%20Storage&technologyBroadCategory%5B%5D=Thermal%20Storage&technologyBroadCategory%5B%5D=Liquid%20Air%20Energy%20Storage&technologyBroadCategory%5B%5D=Hydrogen%20Storage&technologyBroadCategory%5B%5D=Lithium%20Ion%20Battery&technologyBroadCategory%5B%5D=Compressed%20Air%20Energy%20Storage&ratedPower%5Bmin%5D=&ratedPower%5Bmax%5D=&duration%5Bmin%5D=&duration%5Bmax%5D=&owner=&energyStorageTechnologyProvider=&powerElectronicsProvider=&oMContractor=&developer=&integratorCompany=&isoRto=&state=&country=Netherlands&state=,2016.0,520.0,760.0,200.0
+418,Netherlands,Woerden,Quick Charging EV's Powered by the Sun (Woerden A12),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,52.08701595,4.8766871987,GESDB,0.0,0.0,0.0,0.0
+419,Netherlands,Zaandam,Quick Charging EV's Powered by the Sun (Zaandam A8),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,52.4382493,4.8137421,GESDB,0.0,0.0,0.0,0.0
+420,Netherlands,Zeewolde,FCR Storage,Operational,ElectroChemical,,3.0,52.33,5.54167,https://alfen.com/en/projects/3mw-energy-storage-nuon,2017.0,0.0,0.0,0.0
+421,Norway,Aurland,Aurland III Hydro Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),270.0,60.90357,7.2,GESDB,0.0,19.0,90.10000000000001,19.0
+422,Norway,Bergen,Brushytten,Unknown,ElectroChemical,Lithium-ion batteries,0.012,60.39299,5.32415,Norway Ministry,0.0,520.0,760.0,200.0
+423,Norway,Flåm,Powerdock,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,1.2,60.8624489,7.1137361,EU Data,0.0,0.0,0.0,0.0
+424,Norway,Gudvangen,Powerdock,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,1.2,60.8791085,6.8396298,EU Data,0.0,0.0,0.0,0.0
+425,Norway,Hjelmeland,Stølsdal Pumped Hydro Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),17.0,59.223399,6.19,GESDB,0.0,19.0,90.10000000000001,19.0
+426,Norway,Kvinnherad,Jukla Hydro Power Plants ,Operational,Mechanical,Pumped Hydro Storage (PHS),40.0,59.95317235,6.0325140504,GESDB,0.0,19.0,90.10000000000001,19.0
+427,Norway,Lavik,Kai 1 MF Ampere,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,1.2,61.103562,5.5131038,EU Data,0.0,0.0,0.0,0.0
+428,Norway,Oppedal,Kai 2 MF Ampere,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,1.2,61.3181725,6.2135823,EU Data,0.0,0.0,0.0,0.0
+430,Norway,Sandnes,Rema 1000 Vagle,Operational,ElectroChemical,Lithium-ion batteries,0.2,58.85244,5.73521,Norway Ministry,0.0,520.0,760.0,200.0
+431,Norway,Skien,Skagerak Energilab,Operational,ElectroChemical,Lithium-ion batteries,0.8,59.20962,9.60897,Norway Ministry,0.0,520.0,760.0,200.0
+432,Norway,Suldal,Saurdal Hydro Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),640.0,59.49881,6.53,GESDB,0.0,19.0,90.10000000000001,19.0
+433,Norway,Trondheim,Postens logistikksenter,Operational,ElectroChemical,Lead Acid batteries,0.08,63.43049,10.39506,Norway Ministry,0.0,220.0,430.0,110.0
+434,Norway,Utsira,Utsira Wind Power & Hydrogen Plant,De-Commissioned,Electro-chemical battery and chemical storage,Power to Gas (H2),0.065,59.308129,4.88,GESDB,0.0,0.0,0.0,0.0
+435,Poland,Czymanowo,Żarnowiec Pumped Storage,Operational,Mechanical,Pumped Hydro Storage (PHS),716.0,54.7697655,18.05,GESDB,0.0,19.0,90.10000000000001,19.0
+436,Poland,Dychów,Dychow H1,Operational,Mechanical,Pumped Hydro Storage (PHS),28.0,51.9852755,15.0610506,EU Data,0.0,19.0,90.10000000000001,19.0
+437,Poland,Dychów,Dychow H2,Operational,Mechanical,Pumped Hydro Storage (PHS),29.0,51.9852755,15.0610506,EU Data,0.0,19.0,90.10000000000001,19.0
+438,Poland,Dychów,Dychow H3,Operational,Mechanical,Pumped Hydro Storage (PHS),28.0,51.9852755,15.0610506,EU Data,0.0,19.0,90.10000000000001,19.0
+439,Poland,Niedzica,Niedzica Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),82.8,49.4099645,20.33,GESDB,0.0,19.0,90.10000000000001,19.0
+440,Poland,Porabka,Porabka-Zar Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),500.0,49.7704966,19.21,GESDB,0.0,19.0,90.10000000000001,19.0
+441,Poland,Solina,Solina Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),200.0,49.3958323,22.46,GESDB,0.0,19.0,90.10000000000001,19.0
+442,Poland,Tresna,Tresna,Operational,Mechanical,Pumped Hydro Storage (PHS),21.0,49.73735,19.20805,Power Plant Tracker,1966.0,19.0,90.10000000000001,19.0
+443,Poland,Zabrodzie,Solina Hydrozespol H1,Operational,Mechanical,Pumped Hydro Storage (PHS),68.0,52.51034,21.4184,Power Plant Tracker,1968.0,19.0,90.10000000000001,19.0
+444,Poland,Zabrodzie,Solina Hydrozespol H2,Operational,Mechanical,Pumped Hydro Storage (PHS),68.0,52.51034,21.4184,Power Plant Tracker,1968.0,19.0,90.10000000000001,19.0
+445,Poland,Zabrodzie,Solina Hydrozespol H3,Operational,Mechanical,Pumped Hydro Storage (PHS),31.0,52.51034,21.4184,Power Plant Tracker,1968.0,19.0,90.10000000000001,19.0
+446,Poland,Zabrodzie,Solina Hydrozespol H4,Operational,Mechanical,Pumped Hydro Storage (PHS),31.0,52.51034,21.4184,Power Plant Tracker,1968.0,19.0,90.10000000000001,19.0
+447,Poland,Zydowo,Zydowo H1,Operational,Mechanical,Pumped Hydro Storage (PHS),62.0,54.3105599,20.8393237,EU Data,0.0,19.0,90.10000000000001,19.0
+448,Poland,Zydowo,Zydowo H2,Operational,Mechanical,Pumped Hydro Storage (PHS),61.6,54.3105599,20.8393237,EU Data,0.0,19.0,90.10000000000001,19.0
+449,Poland,Zydowo,Zydowo H3,Operational,Mechanical,Pumped Hydro Storage (PHS),62.6,54.3105599,20.8393237,EU Data,0.0,19.0,90.10000000000001,19.0
+450,Poland,"Żydowo, Gmina Polanów",Żydowo Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),156.0,54.0249,16.7069,GESDB,0.0,19.0,90.10000000000001,19.0
+451,Portugal,Aguieira,Aguieira Hydro Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),336.0,40.340285,-8.2,GESDB,0.0,19.0,90.10000000000001,19.0
+452,Portugal,Alijo,Foz Tua Pumped Hydro Station,Operational,Mechanical,Pumped Hydro Storage (PHS),259.0,41.218619,-7.42,GESDB,0.0,19.0,90.10000000000001,19.0
+453,Portugal,Assento,Vilarinho Furnas Pumped Hydro Station,Operational,Mechanical,Pumped Hydro Storage (PHS),125.0,41.763285,-8.21,GESDB,0.0,19.0,90.10000000000001,19.0
+454,Portugal,Evora,PVCROPS  Evora Demonstration Flow Battery Project,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.005,38.5490679,-7.912225192,GESDB,0.0,0.0,0.0,0.0
+455,Portugal,Flores,Flores (the Azores) PowerStore Flywheel Project - Flywheel-Based Grid Stabilizing Generator,Operational,Mechanical,Flywheel,0.5,39.4474713,-31.193945,GESDB,0.0,2750.0,5406.0,1750.0
+456,Portugal,Frades,Frades I Pumped Hydro Station,Operational,Mechanical,Pumped Hydro Storage (PHS),191.6,41.693192,-8.03,GESDB,0.0,19.0,90.10000000000001,19.0
+457,Portugal,Graciosa,"Graciosa (the Azores) PowerStore Flywheel Project -  Stabilize Voltage and Frequency, hold 18 MWs",Operational,Mechanical,Flywheel,0.5,39.0524827,-28.0068979,GESDB,0.0,2750.0,5406.0,1750.0
+458,Portugal,Graciosa,Graciosa Project - Younicos & Recharge,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,6.0,39.0524827,-28.01,GESDB,0.0,0.0,0.0,0.0
+459,Portugal,Marco de Canavezes,Torrão Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),140.0,41.097355,-8.26,GESDB,0.0,19.0,90.10000000000001,19.0
+460,Portugal,Moura,Alqueva Pumped Hydro Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),520.0,38.197508,-7.5,GESDB,0.0,19.0,90.10000000000001,19.0
+461,Portugal,Pisoes,Alto Rabagão Hydro Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),68.0,41.737703,-7.85,GESDB,0.0,19.0,90.10000000000001,19.0
+462,Portugal,Salamonde,Salamonde II Pumped Hydro Station,Operational,Mechanical,Pumped Hydro Storage (PHS),211.0,41.689967,-8.09,GESDB,0.0,19.0,90.10000000000001,19.0
+463,Portugal,Vieira do Minho,Venda Nova III Pumped Hydro Station,Operational,Mechanical,Pumped Hydro Storage (PHS),736.0,41.692695,-8.03,GESDB,0.0,19.0,90.10000000000001,19.0
+467,Romania,Bucharest,Actavis Calnetix (formerly VYCON) Flywheel - 300 kW,Operational,Mechanical,Flywheel,0.3,44.4325,26.103889,GESDB,0.0,2750.0,5406.0,1750.0
+468,Romania,Giurgiu,Frunzaru Reversible Pump Hydro Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),53.0,43.900408,25.97,GESDB,0.0,19.0,90.10000000000001,19.0
+469,Slovakia,Dobšiná,Dobšiná I Pumped Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),24.0,48.8207511,20.37,GESDB,0.0,19.0,90.10000000000001,19.0
+470,Slovakia,Liptovsky Mikulas,Liptovská Mara Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),198.0,49.0986111,19.49,GESDB,0.0,19.0,90.10000000000001,19.0
+471,Slovakia,Ružín,Ružín Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),60.0,48.86311,21.09,GESDB,0.0,19.0,90.10000000000001,19.0
+472,Slovakia,Východná,Čierny Váh Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),735.16,49.011138,19.93,GESDB,0.0,19.0,90.10000000000001,19.0
+473,Slovenia,Avče,Avče Pumped Hydro Storage Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),185.0,46.0855,13.67,GESDB,0.0,19.0,90.10000000000001,19.0
+474,Slovenia,Idrija,BESS NEDO Idrija,Announced,ElectroChemical,Lead Acid batteries + Lithium-ion batteries,1.0,46.00278,14.03056,,2020.0,0.0,0.0,0.0
+475,Slovenia,Ljubljana,BESS NEDO Ljubljana,Announced,ElectroChemical,Lithium-ion batteries,4.0,46.05108,14.50513,,2020.0,520.0,760.0,200.0
+476,Slovenia,Pekre,BESS Pekre,Announced,ElectroChemical,Lithium-ion batteries,5.0,46.54722,15.59556,,2020.0,520.0,760.0,200.0
+477,Slovenia,Trojane,Imergy Trojane Project,Announced,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.01,46.1882207,14.8861224,GESDB,0.0,0.0,0.0,0.0
+478,Spain,Aguilar de Campoo,Aguilar 1,Operational,Mechanical,Pumped Hydro Storage (PHS),4.9,42.7928369,-4.2605438,EU Data,0.0,19.0,90.10000000000001,19.0
+479,Spain,Aguilar de Campoo,Aguilar 2,Operational,Mechanical,Pumped Hydro Storage (PHS),4.91,42.7928369,-4.2605438,EU Data,0.0,19.0,90.10000000000001,19.0
+480,Spain,Albiztur,Dutt Power Electronics BESS,Operational,Electro-chemical battery and chemical storage,Lead Acid batteries,0.04,43.1298742,-2.1355273,GESDB,0.0,0.0,0.0,0.0
+481,Spain,Alcazar de San Juan,Manchasol Solar Power Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),50.0,39.39114,-3.21,GESDB,0.0,0.0,0.0,0.0
+482,Spain,Alcázar de San Juan,Aste 1A Solar Power Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),50.0,39.3899806,-3.2101376,GESDB,0.0,0.0,0.0,0.0
+483,Spain,Alcázar de San Juan,Aste 1B Solar Power Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),50.0,39.3899806,-3.2101376,GESDB,0.0,0.0,0.0,0.0
+484,Spain,Aldeadávila de la Ribera,Aldeadávila Hydro Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),1139.0,41.203,-6.688,GESDB,0.0,19.0,90.10000000000001,19.0
+485,Spain,Aldeire,Andasol CSP Solar Power Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),50.0,37.163714,-3.07,GESDB,0.0,0.0,0.0,0.0
+486,Spain,Alora,Tajo De La Encantada (Málaga) Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),360.0,36.90817,-4.76,GESDB,0.0,19.0,90.10000000000001,19.0
+487,Spain,Alvarado,La Florida Solar Power Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),49.9,38.814241,-6.84,GESDB,0.0,0.0,0.0,0.0
+488,Spain,Antequera,FerroSmartGrid - Regulation Node,Operational,Electro-chemical battery and chemical storage,Lead Acid batteries,0.05,36.929115,-4.538815,GESDB,0.0,0.0,0.0,0.0
+489,Spain,Barasoain,Barasoain BESS,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,1.0,42.6051018,-1.6453574,EU Data,0.0,0.0,0.0,0.0
+490,Spain,Barcelona,Endesa HQ B2G (Barcelona),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.02,41.3850639,2.17,GESDB,0.0,0.0,0.0,0.0
+491,Spain,Bielsa,Urdiceto Hydroelectric Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),7.2,42.6334211,0.22,GESDB,0.0,19.0,90.10000000000001,19.0
+492,Spain,Bárcena de Pie de Concha,Aguayo I Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),360.0,43.092929,-4.02,GESDB,0.0,19.0,90.10000000000001,19.0
+493,Spain,Bárcena de Pie de Concha,Aguayo II Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),1014.0,43.1276249,-4.06,GESDB,0.0,19.0,90.10000000000001,19.0
+494,Spain,Calasparra,Puerto Errado 1 Thermosolar Power Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),1.4000000000000001,38.283086,-1.6,GESDB,0.0,0.0,0.0,0.0
+495,Spain,Calasparra,Puerto Errado 2 Thermosolar Power Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),30.0,38.283086,-1.6,GESDB,0.0,0.0,0.0,0.0
+496,Spain,Capdella,Estany Gento/Sallente Pumped Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),468.0,42.467125,0.9914429385,GESDB,0.0,19.0,90.10000000000001,19.0
+497,Spain,Carboneras,Carboneras BESS ,Bidding process,ElectroChemical,Unknown,20.0,36.99666,-1.89651,https://www.iea-coal.org/spain-enel-coal-plant-battery-projects-taking-shape/,2018.0,0.0,0.0,0.0
+498,Spain,Carmona,Almacena Lithium Ion Battery,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.0,37.471274,-5.64,GESDB,0.0,0.0,0.0,0.0
+499,Spain,Cazalla Sierra,Pintado Hydroelectric Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),14.0,37.93753,-5.78,GESDB,0.0,19.0,90.10000000000001,19.0
+500,Spain,Cortes de Pallás,La Muela pumped-storage plant,Operational,Mechanical,Pumped Hydro Storage (PHS),2000.0,39.2408334,-0.9400000000000001,GESDB,0.0,19.0,90.10000000000001,19.0
+501,Spain,El Hierro,El Hierro Hydro-Wind Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),11.3,27.795065,-17.92,GESDB,0.0,19.0,90.10000000000001,19.0
+502,Spain,Fuentes de Andalucía,Gemasolar,Operational,Thermal,Molten salts,19.9,37.46409,-5.34615,https://solarpaces.nrel.gov/by-country/ES,0.0,0.0,0.0,0.0
+503,Spain,Fuentes de Andalucía,Gemasolar Plant ,Operational,Thermal,Sensible Thermal Energy Storage (STES),19.900000000000002,37.4687376,-5.35,GESDB,0.0,0.0,0.0,0.0
+504,Spain,Gobantes,Gobantes Hydroelectric Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),3.6,36.95558,-4.8,GESDB,0.0,19.0,90.10000000000001,19.0
+505,Spain,Guijo De Granadilla,Gabriel Y Galan Hydroelectric Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),111.0,40.195346,-6.16,GESDB,0.0,19.0,90.10000000000001,19.0
+506,Spain,Guijo de Granadilla,Gabriel y Galán Alagón,Operational,Mechanical,Pumped Hydro Storage (PHS),110.0,40.19351,-6.16339,Power Plant Tracker,1982.0,19.0,90.10000000000001,19.0
+507,Spain,Guijo de Granadilla,Guijo de Granadilla Hydroelectric Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),54.0,40.195346,-6.16,GESDB,0.0,19.0,90.10000000000001,19.0
+508,Spain,Guillena,Guillena Hydroelectric Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),215.0,37.5429955,-6.06,GESDB,0.0,19.0,90.10000000000001,19.0
+509,Spain,Huesca,Central Hidroelectrica de IP Bombeo,Operational,Mechanical,Pumped Hydro Storage (PHS),99.0,42.13615,-0.4087,European Commission,2009.0,19.0,90.10000000000001,19.0
+510,Spain,Huesca,Ibón de Ip Hydroelectric Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),88.5,42.72082415,-0.45724647490000003,GESDB,0.0,19.0,90.10000000000001,19.0
+511,Spain,La Aldea de San Nicolás,Endesa STORE: Gran Canaria Project,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.0,27.9822218,-15.78,GESDB,0.0,0.0,0.0,0.0
+512,Spain,La Garrovilla,La Dehesa Solar Power Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),49.9,38.959432,-6.46,GESDB,0.0,0.0,0.0,0.0
+513,Spain,La Palma,Endesa STORE: La Palma Project - Ingeteam,Operational,Electro-chemical battery and chemical storage,Supercapacitor,4.0,28.6629785,-17.79,GESDB,0.0,0.0,0.0,0.0
+514,Spain,Madrid,Ferrolinera WESS: Ultracapacitors - Win Inertia,Operational,Electro-chemical battery and chemical storage,Supercapacitor,0.3,40.37563,-3.68,GESDB,0.0,0.0,0.0,0.0
+515,Spain,Madrid,Ferrolinera WESS: Win Inertia ,Operational,Electro-chemical battery and chemical storage,Supercapacitor,0.3,40.37563,-3.68,GESDB,0.0,0.0,0.0,0.0
+516,Spain,Malaga,Endesa: V2G,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.08,36.721261,-4.42,GESDB,0.0,0.0,0.0,0.0
+517,Spain,Malaga,Smart City Malaga (MT),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.106,36.721261,-4.42,GESDB,0.0,0.0,0.0,0.0
+518,Spain,Manzaneda,Puente Bibey 1,Operational,Mechanical,Pumped Hydro Storage (PHS),71.0,42.30962,-7.23209,Power Plant Tracker,1964.0,19.0,90.10000000000001,19.0
+519,Spain,Manzaneda,Puente Bibey 2,Operational,Mechanical,Pumped Hydro Storage (PHS),71.0,42.30962,-7.23209,Power Plant Tracker,1964.0,19.0,90.10000000000001,19.0
+520,Spain,Manzaneda,Puente Bibey 3,Operational,Mechanical,Pumped Hydro Storage (PHS),71.0,42.30962,-7.23209,Power Plant Tracker,1964.0,19.0,90.10000000000001,19.0
+521,Spain,Manzaneda,Puente Bibey 4,Operational,Mechanical,Pumped Hydro Storage (PHS),76.23,42.30962,-7.23209,Power Plant Tracker,1964.0,19.0,90.10000000000001,19.0
+522,Spain,Manzaneda,Puente Bibey 5,Operational,Mechanical,Pumped Hydro Storage (PHS),0.72,42.30962,-7.23209,Power Plant Tracker,1964.0,19.0,90.10000000000001,19.0
+523,Spain,Manzaneda,Puente Bibey Hydroelectric Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),315.0,42.310337,-7.23,GESDB,0.0,19.0,90.10000000000001,19.0
+524,Spain,"Montanuy, Huesca",Moralets-Llauset (Lleida/Huesca) Hydroelectric Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),219.1,42.580864,0.6900000000000001,GESDB,0.0,19.0,90.10000000000001,19.0
+525,Spain,Morón de la Frontera,Arenales CSP Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),50.0,37.161774,-5.54,GESDB,0.0,0.0,0.0,0.0
+526,Spain,Málaga,FerroSmartGrid - Recuperation/Interoperability Node,Operational,Electro-chemical battery and chemical storage,Supercapacitor,0.05,36.7078382,-4.4431004,GESDB,0.0,0.0,0.0,0.0
+527,Spain,Navalvillar de Pela,Termosol 1 Solar Power Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),50.0,39.192614,-5.58,GESDB,0.0,0.0,0.0,0.0
+528,Spain,Navalvillar de Pela,Termosol 2 Solar Power Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),49.0,39.089699,-5.46,GESDB,0.0,0.0,0.0,0.0
+529,Spain,Olivenza,Astexol II Solar Power Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),50.0,38.6854813,-7.0995738,GESDB,0.0,0.0,0.0,0.0
+530,Spain,Pastrana,Bolarque I GR 1,Operational,Mechanical,Pumped Hydro Storage (PHS),13.99,40.4178968,-2.9225859,EU Data,0.0,19.0,90.10000000000001,19.0
+531,Spain,Pastrana,Bolarque I GR 2,Operational,Mechanical,Pumped Hydro Storage (PHS),13.950000000000001,40.4178968,-2.9225859,EU Data,0.0,19.0,90.10000000000001,19.0
+532,Spain,Pastrana,Bolarque II GR 1,Operational,Mechanical,Pumped Hydro Storage (PHS),52.0,40.4178968,-2.9225859,EU Data,0.0,19.0,90.10000000000001,19.0
+533,Spain,Pastrana,Bolarque II GR 2,Operational,Mechanical,Pumped Hydro Storage (PHS),52.0,40.4178968,-2.9225859,EU Data,0.0,19.0,90.10000000000001,19.0
+534,Spain,Pastrana,Bolarque II GR 3,Operational,Mechanical,Pumped Hydro Storage (PHS),52.0,40.4178968,-2.9225859,EU Data,0.0,19.0,90.10000000000001,19.0
+535,Spain,Pastrana,Bolarque II GR 4,Operational,Mechanical,Pumped Hydro Storage (PHS),52.0,40.4178968,-2.9225859,EU Data,0.0,19.0,90.10000000000001,19.0
+536,Spain,"Playa Santiago, La Gomera",Endesa STORE: La Gomera Project -  Flywheel With Total Installed Capacity of 0.5MW/18MWs,Operational,Mechanical,Flywheel,0.5,28.0271769,-17.2006914,GESDB,0.0,2750.0,5406.0,1750.0
+537,Spain,Posadas,La Africana Solar Power Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),50.0,37.807018,-5.1,GESDB,0.0,0.0,0.0,0.0
+538,Spain,Proaza,Tanes Hydroelectric Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),133.0,43.2504393,-5.98,GESDB,0.0,19.0,90.10000000000001,19.0
+539,Spain,Puertollano,Puertollano,Submitted,ElectroChemical,Unknown,5.0,38.68712,-4.10734,https://www.pv-tech.org/news/51221,0.0,0.0,0.0,0.0
+540,Spain,San José del Valle,Arcosol 50 (Valle 1),Operational,Thermal,Sensible Thermal Energy Storage (STES),50.0,36.605904,-5.8,GESDB,0.0,0.0,0.0,0.0
+541,Spain,San José del Valle,Termesol 50 (Valle 2) CSP Power Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),50.0,36.605904,-5.8,GESDB,0.0,0.0,0.0,0.0
+542,Spain,San Miguel de Aguayo,Aguayo 1,Operational,Mechanical,Pumped Hydro Storage (PHS),90.06,43.05383,-4.0255,Power Plant Tracker,1982.0,19.0,90.10000000000001,19.0
+543,Spain,San Miguel de Aguayo,Aguayo 2,Operational,Mechanical,Pumped Hydro Storage (PHS),89.27,43.05383,-4.0255,Power Plant Tracker,1982.0,19.0,90.10000000000001,19.0
+544,Spain,San Miguel de Aguayo,Aguayo 3,Operational,Mechanical,Pumped Hydro Storage (PHS),90.56,43.05383,-4.0255,Power Plant Tracker,1983.0,19.0,90.10000000000001,19.0
+545,Spain,San Miguel de Aguayo,Aguayo 4,Operational,Mechanical,Pumped Hydro Storage (PHS),90.71,43.05383,-4.0255,Power Plant Tracker,1983.0,19.0,90.10000000000001,19.0
+546,Spain,San Sebastián,Micro-Grid I-Sare (Battery),Operational,Electro-chemical battery and chemical storage,,0.0,43.318334,-1.98,GESDB,0.0,0.0,0.0,0.0
+547,Spain,San Sebastián,Micro-Grid I-Sare (Flywheel)  - A Smart Power Grid in the Region of Gipuzkoa,Operational,Mechanical,Flywheel,0.0,43.301532,-1.9478952,GESDB,0.0,2750.0,5406.0,1750.0
+548,Spain,Sanlúcar La Mayor,Planta Solar 10 Solar Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),11.0,37.38604,-6.2,GESDB,0.0,0.0,0.0,0.0
+549,Spain,Sanlúcar La Mayor,Planta Solar 20 Solar Power Plant (PS 20),Operational,Thermal,Sensible Thermal Energy Storage (STES),20.0,37.38604,-6.2,GESDB,0.0,0.0,0.0,0.0
+550,Spain,"Sant Adrià de Besòs, Barcelona",IREC B2G,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.023,41.4304832,2.2182775,GESDB,0.0,0.0,0.0,0.0
+551,Spain,Sarriguren,CENER VRB,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.05,42.8101792,-1.5966313835000001,GESDB,0.0,0.0,0.0,0.0
+552,Spain,Sevilla,Planta solar 10,Operational,Thermal,Sensible Thermal Energy Storage (STES),11.0,37.38283,-5.97317,https://solarpaces.nrel.gov/by-country/ES,0.0,0.0,0.0,0.0
+553,Spain,Sevilla,Planta solar 20,Operational,Thermal,Sensible Thermal Energy Storage (STES),20.0,37.38283,-5.97317,https://solarpaces.nrel.gov/by-country/ES,0.0,0.0,0.0,0.0
+554,Spain,Seville,Seville BESS Abeinsa- Instalaciones Inabensa (Abengoa),Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.0,37.3890924,-5.98,GESDB,0.0,0.0,0.0,0.0
+555,Spain,Talarrubias,Casablanca Solar Power Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),50.0,39.0345808,-5.23,GESDB,0.0,0.0,0.0,0.0
+556,Spain,Tavascan,Cardos Valley Hydroelectric Complex - Montamara Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),90.0,42.644804,1.26,GESDB,0.0,19.0,90.10000000000001,19.0
+557,Spain,Teruel,Teruel,Announced,ElectroChemical,Unknown,159.3,40.3456,-1.10646,https://www.energias-renovables.com/panorama/endesa-situa-en-teruel-la-mayor-planta-20191213/,0.0,0.0,0.0,0.0
+558,Spain,Tias,Lanzarote PowerStore Flywheel Project  - 18 MWs of energy,Operational,Mechanical,Flywheel,1.6,28.953154,-13.651196,GESDB,0.0,2750.0,5406.0,1750.0
+559,Spain,Torre de Miguel Sesmero,Extresol Solar Power Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),50.0,38.6194489,-6.8,GESDB,0.0,0.0,0.0,0.0
+560,Spain,Torrejon el Rubio,Torrejon Hydroelectric Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),132.0,39.835,-5.989,GESDB,0.0,19.0,90.10000000000001,19.0
+561,Spain,Tudela,Acciona Energia Innovative Lithium-Ion System (ILIS) Project ,Stopped,ElectroChemical,Lithium-ion batteries,1.0,42.06166,-1.60452,https://www.energystorageexchange.org/projects?q=&title=&technologyBroadCategory%5B%5D=Electro-chemical&technologyBroadCategory%5B%5D=Liquid%20Air%20Energy%20Storage&technologyBroadCategory%5B%5D=Hydrogen%20Storage&technologyBroadCategory%5B%5D=Lithium%20Ion%20Battery&technologyBroadCategory%5B%5D=Compressed%20Air%20Energy%20Storage&ratedPower%5Bmin%5D=&ratedPower%5Bmax%5D=&duration%5Bmin%5D=&duration%5Bmax%5D=&owner=&energyStorageTechnologyProvider=&powerElectronicsProvider=&oMContractor=&developer=&integratorCompany=&isoRto=&state=&country=Spain&state=,2012.0,520.0,760.0,200.0
+562,Spain,Tudela,Acciona Energia Innovative Lithium-Ion System (ILIS) Project  ,De-Commissioned,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.0,42.06483,-1.6099999999999999,GESDB,0.0,0.0,0.0,0.0
+563,Spain,Valdecanas,Valdencanas Hydroelectric Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),225.0,40.2268415,-2.33,GESDB,0.0,19.0,90.10000000000001,19.0
+564,Spain,Valdeobispo,Caceres Solar Power Plant,Operational,Thermal,Sensible Thermal Energy Storage (STES),50.0,40.0830699,-6.25,GESDB,0.0,0.0,0.0,0.0
+565,Spain,Vilarino de Conso,Conso Hydroelectric Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),228.0,42.1429146,-7.29,GESDB,0.0,19.0,90.10000000000001,19.0
+566,Spain,Vilarino de Conso,Soutelo Cenza 1,Operational,Mechanical,Pumped Hydro Storage (PHS),131.96,42.1661767,-7.1826752,EU Data,0.0,19.0,90.10000000000001,19.0
+567,Spain,Vilarino de Conso,Soutelo Cenza 2,Operational,Mechanical,Pumped Hydro Storage (PHS),81.68,42.1661767,-7.1826752,EU Data,0.0,19.0,90.10000000000001,19.0
+568,Spain,Villarino,Villarino (Almendra) Reversible Hydro Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),810.0,41.268575,-6.47,GESDB,0.0,19.0,90.10000000000001,19.0
+569,Spain,Villarino de los Aires,Villarino Tormes 1,Operational,Mechanical,Pumped Hydro Storage (PHS),138.9,41.27102,-6.46847,Power Plant Tracker,1970.0,19.0,90.10000000000001,19.0
+570,Spain,Villarino de los Aires,Villarino Tormes 2,Operational,Mechanical,Pumped Hydro Storage (PHS),137.4,41.27102,-6.46847,Power Plant Tracker,1970.0,19.0,90.10000000000001,19.0
+571,Spain,Villarino de los Aires,Villarino Tormes 3,Operational,Mechanical,Pumped Hydro Storage (PHS),138.3,41.27102,-6.46847,Power Plant Tracker,1970.0,19.0,90.10000000000001,19.0
+572,Spain,Villarino de los Aires,Villarino Tormes 4,Operational,Mechanical,Pumped Hydro Storage (PHS),138.72,41.27102,-6.46847,Power Plant Tracker,1970.0,19.0,90.10000000000001,19.0
+573,Spain,Villarino de los Aires,Villarino Tormes 5,Operational,Mechanical,Pumped Hydro Storage (PHS),148.95,41.27102,-6.46847,Power Plant Tracker,1976.0,19.0,90.10000000000001,19.0
+574,Spain,Villarino de los Aires,Villarino Tormes 6,Operational,Mechanical,Pumped Hydro Storage (PHS),148.61,41.27102,-6.46847,Power Plant Tracker,1977.0,19.0,90.10000000000001,19.0
+575,Spain,Zaragoza,Endesa: CRAVE,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.047,41.6841242,-0.88,GESDB,0.0,0.0,0.0,0.0
+576,Sweden,Arlanda,Arlanda Airport Aquifer Thermal Energy Storage,Operational,Thermal,,10.0,59.6493133,17.93,GESDB,0.0,0.0,0.0,0.0
+577,Sweden,Borlänge,Forschuvud,Operational,ElectroChemical,Lithium-ion batteries,5.0,60.4858,15.43714,https://www.fortum.com/media/2019/05/new-fortum-batteries-enhance-renewable-energy-capacity,2019.0,520.0,760.0,200.0
+578,Sweden,Falköping,Falköping Substation Smart Grid - ABB,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.075,58.1631846,13.56,GESDB,0.0,0.0,0.0,0.0
+579,Sweden,Sunne,Kymmen,Operational,Mechanical,Pumped Hydro Storage (PHS),55.0,59.83764,13.14302,https://www.fortum.se/vara-vattenkraftverk/norsalven/kymmens-kraftverk,1986.0,19.0,90.10000000000001,19.0
+580,Sweden,Torsby,Letten,Operational,Mechanical,Pumped Hydro Storage (PHS),36.0,60.13527,13.0082,https://www.fortum.se/vara-vattenkraftverk/klaralven/lettens-kraftverk,1956.0,19.0,90.10000000000001,19.0
+581,Switzerland,Altendorf,Etzelwerk Altendorf,Operational,Mechanical,Pumped Hydro Storage (PHS),135.0,47.18994,8.83823,Power Plant Tracker,0.0,19.0,90.10000000000001,19.0
+582,Switzerland,Ayer,Mottec,Operational,Mechanical,Pumped Hydro Storage (PHS),71.0,46.18088,7.60116,Power Plant Tracker,0.0,19.0,90.10000000000001,19.0
+583,Switzerland,Basel,50 kW / 60 kWh Energy Storage System - BYD,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,47.5581077,7.5878261,GESDB,0.0,0.0,0.0,0.0
+584,Switzerland,Bern,Passivhaus 50kW/130kWh ESS,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,46.9479222,7.44,GESDB,0.0,0.0,0.0,0.0
+585,Switzerland,Bignasco,Robiei Pumped Hydro Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),160.0,46.3367938,8.61,GESDB,0.0,19.0,90.10000000000001,19.0
+586,Switzerland,Dietikon,Dietikon,Operational,ElectroChemical,Lithium-ion batteries,1.0,47.40165,8.40015,"http://www.abb.no/cawp/seitp202/0b80d94850f2df5ac1257a4c002d4430.aspx (Batteries provided by LG, use : Primary frequence regulation)",2012.0,520.0,760.0,200.0
+587,Switzerland,Dietikon,The Zurich Dietikon 1 MW BESS,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.0,47.4072107,8.409923299999999,GESDB,0.0,0.0,0.0,0.0
+588,Switzerland,Guttannen,Grimsel Pumped Hydro Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),350.0,46.65532,8.29,GESDB,0.0,19.0,90.10000000000001,19.0
+589,Switzerland,Lausanne,EPFL/Leclanche Distributed Electrical Systems Laboratory,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.72,46.5221275,6.5878814,GESDB,0.0,0.0,0.0,0.0
+590,Switzerland,Linthal,Limmern-1,Operational,Mechanical,Pumped Hydro Storage (PHS),250.0,46.92127,8.99799,Power Plant Tracker,0.0,19.0,90.10000000000001,19.0
+591,Switzerland,Linthal,Limmern-2,Operational,Mechanical,Pumped Hydro Storage (PHS),250.0,46.92127,8.99799,Power Plant Tracker,0.0,19.0,90.10000000000001,19.0
+592,Switzerland,Linthal,Limmern-3,Operational,Mechanical,Pumped Hydro Storage (PHS),250.0,46.92127,8.99799,Power Plant Tracker,0.0,19.0,90.10000000000001,19.0
+593,Switzerland,Linthal,Limmern-4,Operational,Mechanical,Pumped Hydro Storage (PHS),250.0,46.92127,8.99799,Power Plant Tracker,0.0,19.0,90.10000000000001,19.0
+594,Switzerland,Linthal,Linthal 2015 (Linth-Limmern Expansion) Pumped Hydro Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),1000.0,46.918987,8.99714,GESDB,0.0,19.0,90.10000000000001,19.0
+595,Switzerland,Linthal,Linth–Limmern Pumped Storage Scheme,Operational,Mechanical,Pumped Hydro Storage (PHS),480.0,47.0404265,9.07,GESDB,0.0,19.0,90.10000000000001,19.0
+596,Switzerland,Linthal,Tierfehd (Umwalzwerk),Operational,Mechanical,Pumped Hydro Storage (PHS),140.0,46.92127,8.99799,Power Plant Tracker,0.0,19.0,90.10000000000001,19.0
+597,Switzerland,Loderio,Pollegio-Loderio Tunnel Demonstration Plant - ALACAES - Adiabatic Compressed Air Energy Storage Concept,Operational,Mechanical,Compressed Air Energy Storage (CAES),0.5,46.384626,8.963535,GESDB,0.0,47.0,75.0,40.0
+598,Switzerland,Martigny,Emosson Pumped Hydro Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),360.0,46.1025948,7.08,GESDB,0.0,19.0,90.10000000000001,19.0
+599,Switzerland,Martigny,Lausanne Polytechnic School-Martigny-200kW,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.2,46.1049798,7.08,GESDB,0.0,0.0,0.0,0.0
+600,Switzerland,Martigny,Nant de Drance Pumped Hydro Storage Power ,Operational,Mechanical,Pumped Hydro Storage (PHS),900.0,46.1025948,7.08,GESDB,0.0,19.0,90.10000000000001,19.0
+601,Switzerland,Martigny,Swiss Dual-Circuit Redox Flow Battery,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.01,46.1146883,7.084424,GESDB,0.0,0.0,0.0,0.0
+602,Switzerland,Meggen,CKW E-SpeicherWerk Castle Meggenhorn,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.055,47.0470746,8.3733992,GESDB,0.0,0.0,0.0,0.0
+603,Switzerland,Pfäfers,Mapragg Pumped Hydro Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),370.0,46.9429623,9.48,GESDB,0.0,19.0,90.10000000000001,19.0
+604,Switzerland,Poschiavo,Lago Bianco Pumped Hydro Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),1000.0,46.3265,10.06,GESDB,0.0,19.0,90.10000000000001,19.0
+605,Switzerland,Ragn de Ferrera,Ferrera Pumped Hydro Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),185.0,46.5301934,9.45,GESDB,0.0,19.0,90.10000000000001,19.0
+606,Switzerland,Schaffhausen,Engeweiher,Operational,Mechanical,Pumped Hydro Storage (PHS),5.0,47.69732,8.63493,Power Plant Tracker,0.0,19.0,90.10000000000001,19.0
+607,Switzerland,Sierre,Gougra Pumped Hydro Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),164.0,46.291289,7.54,GESDB,0.0,19.0,90.10000000000001,19.0
+608,Switzerland,Sihlsee,Etzelwerk Pumped Hydro Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),135.0,47.1369626,8.78,GESDB,0.0,19.0,90.10000000000001,19.0
+609,Switzerland,Tierfehd,Tierfehd (Nestil) Pumped Hydro Storage ,Operational,Mechanical,Pumped Hydro Storage (PHS),141.0,46.8784824,8.98,GESDB,0.0,19.0,90.10000000000001,19.0
+610,Switzerland,Veytaux,Hongrin-Leman  Pumped Hydro Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),240.0,46.4198999,6.93,GESDB,0.0,19.0,90.10000000000001,19.0
+611,Switzerland,Veytaux,Veytaux (FMHL+) Pumped Hydro Storage Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),240.0,46.4358779,6.91,GESDB,0.0,19.0,90.10000000000001,19.0
+612,Switzerland,Veytaux,Veytaux-1 (FMHL+),Operational,Mechanical,Pumped Hydro Storage (PHS),240.0,46.42129,6.93048,Power Plant Tracker,0.0,19.0,90.10000000000001,19.0
+613,Switzerland,Veytaux,Veytaux-2 (FMHL+),Operational,Mechanical,Pumped Hydro Storage (PHS),240.0,46.42129,6.93048,Power Plant Tracker,0.0,19.0,90.10000000000001,19.0
+614,Switzerland,Vorderthal,Rempen,Operational,Mechanical,Pumped Hydro Storage (PHS),66.24,47.12172,8.90225,Power Plant Tracker,0.0,19.0,90.10000000000001,19.0
+615,Switzerland,Zernez,Ova Spin,Operational,Mechanical,Pumped Hydro Storage (PHS),54.0,46.69862,10.09268,Power Plant Tracker,0.0,19.0,90.10000000000001,19.0
+616,Switzerland,Zernez,Ova Spin Pumped Hydro Storage Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),47.0,46.7004826,10.09,GESDB,0.0,19.0,90.10000000000001,19.0
+617,United Kingdom,-,RedT-Southwest England,Announced,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.04,55.378051,-3.44,GESDB,0.0,0.0,0.0,0.0
+618,United Kingdom,Abingdon,EFDA JET Fusion Flywheel - 400 MWs Supplied From Two Large Flywheels,Operational,Mechanical,Flywheel,400.0,51.6578355,-1.2320366,GESDB,0.0,2750.0,5406.0,1750.0
+619,United Kingdom,Berkshire,250 kWh Berkshire Farm (Anesco UK),Operational,Electro-chemical battery and chemical storage,,0.25,51.4669939,-1.19,GESDB,0.0,0.0,0.0,0.0
+620,United Kingdom,Birmingham,University of Birmingham Cryogenic Energy Storage (CES) Pilot,Operational,Thermal,Phase Change Material (PCM),0.35000000000000003,52.4603261,-1.9179097999999999,GESDB,0.0,0.0,0.0,0.0
+621,United Kingdom,Bury,Pre-Commercial Liquid Air Energy Storage Technology Demonstrator - Highview Power Storage,Under Construction,Thermal,Phase Change Material (PCM),5.0,53.5843377,-2.26,GESDB,0.0,0.0,0.0,0.0
+622,United Kingdom,Butleigh,Western Power Distribution (WPD) Battery Storage Facility - RES (UK),Operational,Electro-chemical battery and chemical storage,,0.3,51.0734156,-2.7043266762,GESDB,0.0,0.0,0.0,0.0
+623,United Kingdom,Butleigh,Western Power Distribution-SomerSet ,Contracted,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.3,51.1007505,-2.68,GESDB,0.0,0.0,0.0,0.0
+624,United Kingdom,Cardiff,Welsh House-Tesla,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.002,51.4816546,-3.1791934,GESDB,0.0,0.0,0.0,0.0
+625,United Kingdom,Carrickfergus,AES Kilroot Advancion Energy Storage Array,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,10.0,54.7299193,-5.7706963,GESDB,0.0,0.0,0.0,0.0
+626,United Kingdom,Denwick,Northern Powergrid CLNR ESS2-2,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.1,55.4221183,-1.6784563000000001,GESDB,0.0,0.0,0.0,0.0
+627,United Kingdom,Dinorwig,Dinorwig Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),1728.0,53.1340503,-4.11,GESDB,0.0,19.0,90.10000000000001,19.0
+628,United Kingdom,Dorset,Slepe Farm: Solar + 250 kWh storage - Farm Power Apollo,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.598,50.67222,-2.0587109,GESDB,0.0,0.0,0.0,0.0
+629,United Kingdom,Ffestiniog,Ffestiniog Pumped Hydro Power Plant,Operational,Mechanical,Pumped Hydro Storage (PHS),360.0,52.959065,-3.93,GESDB,0.0,19.0,90.10000000000001,19.0
+630,United Kingdom,Flat Holm Island,Flat Holm Microgrid Project,Operational,Electro-chemical battery and chemical storage,Lead Acid batteries,0.005,51.377861,-3.12,GESDB,0.0,0.0,0.0,0.0
+631,United Kingdom,Gigha,Gigha Wind Farm Battery Project,Contracted,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.1,55.68459,-5.75,GESDB,0.0,0.0,0.0,0.0
+632,United Kingdom,Hemsby,ABB & UK Power Networks Energy Storage Installation,De-Commissioned,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.2,52.6969622,1.6917444,GESDB,0.0,0.0,0.0,0.0
+633,United Kingdom,Horse Island,Horse Island Microgrid Project,Operational,Electro-chemical battery and chemical storage,Lead Acid batteries,0.012,57.986,-5.345,GESDB,0.0,0.0,0.0,0.0
+634,United Kingdom,Isle of Rum,Isle of Rum Microgrid System,Operational,Electro-chemical battery and chemical storage,Lead Acid batteries,0.045,57.01544295,-6.2806560542,GESDB,0.0,0.0,0.0,0.0
+635,United Kingdom,Kirkwall,Orkney Storage Park Project,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,2.0,58.984674,-2.96,GESDB,0.0,0.0,0.0,0.0
+636,United Kingdom,Larne,330 MW - Gaelectric Compressed Air Energy Storage (CAES),Announced/Never Built,Mechanical,Compressed Air Energy Storage (CAES),330.0,54.8448772,-5.8000087,GESDB,0.0,47.0,75.0,40.0
+637,United Kingdom,Leighton Buzzard,Smarter Network Storage,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,6.0,51.9174658,-0.65,GESDB,0.0,0.0,0.0,0.0
+638,United Kingdom,Lerwick,Lerwick Power Station - NGK,De-Commissioned,Electro-chemical battery and chemical storage,Sodium Sulphur batteries,1.0,60.1668136,-1.1643250337,GESDB,0.0,0.0,0.0,0.0
+639,United Kingdom,Loch Ness,Foyers Pumped Storage Power Station ,Operational,Mechanical,Pumped Hydro Storage (PHS),300.0,57.3228575,-4.42,GESDB,0.0,19.0,90.10000000000001,19.0
+640,United Kingdom,Lochawe,Cruachan Power Station,Operational,Mechanical,Pumped Hydro Storage (PHS),440.0,56.406482,-5.11,GESDB,0.0,19.0,90.10000000000001,19.0
+641,United Kingdom,Maltby,Northern Powergrid CLNR ESS3-3,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,53.4264287,-1.2070444,GESDB,0.0,0.0,0.0,0.0
+642,United Kingdom,Milton Keynes,"WPD Falcon Project, GE Durathon",Operational,Electro-chemical battery and chemical storage,Sodium Sulphur batteries,0.25,52.0429797,-0.7589606999999999,GESDB,0.0,0.0,0.0,0.0
+643,United Kingdom,Muck,Isle of Muck Microgrid System,Operational,Electro-chemical battery and chemical storage,Lead Acid batteries,0.045,56.83582,-6.23917,GESDB,0.0,0.0,0.0,0.0
+644,United Kingdom,Muddiford,Diesel Generator Solar + Storage Replacement,Operational,Electro-chemical battery and chemical storage,Sodium Sulphur batteries,0.011,51.126,-4.054,GESDB,0.0,0.0,0.0,0.0
+645,United Kingdom,Peterhead,Batwind - Statoil,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,1.0,57.508123,-1.78,GESDB,0.0,0.0,0.0,0.0
+646,United Kingdom,"Rise Carr, Darlington",Northern Powergrid CLNR EES1,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,2.5,54.5458828,-1.56,GESDB,0.0,0.0,0.0,0.0
+647,United Kingdom,"Rise Carr, Darlington",Northern Powergrid CLNR ESS2-1,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.1,54.5332543,-1.5530116999999999,GESDB,0.0,0.0,0.0,0.0
+648,United Kingdom,"Rise Carr, Darlington",Northern Powergrid CLNR ESS3-1,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,54.550091,-1.5439566711000001,GESDB,0.0,0.0,0.0,0.0
+649,United Kingdom,Slough,Slough Zero-Carbon Homes Community Energy Storage,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.075,51.52164245,-0.6173197500000001,GESDB,0.0,0.0,0.0,0.0
+650,United Kingdom,Toton,Isentropic Demonstration Project,Announced,Thermal,Sensible Thermal Energy Storage (STES),1.4000000000000001,52.906367,-1.26,GESDB,0.0,0.0,0.0,0.0
+651,United Kingdom,Willenhall,Ireland/United Kingdom Hybrid Flywheel Battery - Schwungrad Energie Limited,Announced,Mechanical,Flywheel,1.0,52.585017,-2.057635,GESDB,0.0,2750.0,5406.0,1750.0
+652,United Kingdom,Wokingham,5 kW / 40 kWh - redT Wokingham Development Facility,Operational,Electro-chemical battery and chemical storage,Redox flow batteries Vanadium,0.005,51.453488899999996,-1.0318729593,GESDB,0.0,0.0,0.0,0.0
+653,United Kingdom,Wolverhampton,EPSRC Grid Connected Energy Storage Research Demonstrator with WPD and Toshiba,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,2.0,52.5853723,-2.06,GESDB,0.0,0.0,0.0,0.0
+654,United Kingdom,Wooler,Northern Powergrid CLNR EES3-2,Operational,Electro-chemical battery and chemical storage,Lithium-ion batteries,0.05,55.5458505,-2.0147556,GESDB,0.0,0.0,0.0,0.0
