@@ -11,8 +11,8 @@ Les fichiers suivant doivent être téléchargés en local puis ouvert avec un n
 
 ## Temporalité des données
 Les données ont été récoltées au 31 décembre 2024.   
-Les données de la DG Enrgy de l'UE sont directement récoltés via le site suivant à chaque fois que le code est executé : https://data.europa.eu/data/datasets/database-of-the-european-energy-storage-technologies-and-facilities?locale=en .  
-Cependant, il n'est pas possible de faire de même avec les données du Déppartement Américain de l'Energie. Les données ont donc été téléchargées en format json, directement depuis le site suivant : https://gesdb.sandia.gov/projects.html . Pour réactualiser les données, il est donc nécessaire de télécharger une nouvelle fois la base de données depuis le site mentionné précédemment.
+Les données de la DG Enrgy de l'UE sont directement récoltés via le site suivant à chaque fois que le code est executé : https://data.europa.eu/data/datasets/database-of-the-european-energy-storage-technologies-and-facilities?locale=en .    
+Cependant, il n'est pas possible de faire de même avec les données du Département Américain de l'Energie. Les données ont donc été téléchargées en format json, directement depuis le site suivant : https://gesdb.sandia.gov/projects.html . Pour réactualiser les données, il est donc nécessaire de télécharger une nouvelle fois la base de données depuis le site mentionné précédemment.
 
 ## Source :
 Les données ont été obtenues grâce au :  
